@@ -1,0 +1,1501 @@
+Order_id,Amount,Order_date,Prodcut_id,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-25681,1096,08-11-2020,1001,658,7,Electronics,Electronic Games,COD
+B-26055,5729,09-11-2020,1002,64,14,Furniture,Chairs,EMI
+B-25955,2927,10-11-2020,1003,146,8,Furniture,Bookcases,EMI
+B-26093,2847,11-11-2020,1004,712,8,Electronics,Printers,Credit Card
+B-25602,2617,12-11-2020,1005,1151,4,Electronics,Phones,Credit Card
+B-25881,2244,13-11-2020,1006,247,4,Clothing,Trousers,Credit Card
+B-25696,275,16-11-2020,1007,-275,4,Clothing,Saree,COD
+B-25687,387,17-11-2020,1008,-213,5,Clothing,Saree,UPI
+B-25643,50,18-11-2020,1009,-44,2,Clothing,Hankerchief,UPI
+B-25851,135,19-11-2020,1010,-54,5,Clothing,Kurti,COD
+B-25703,231,20-11-2020,1011,-190,9,Clothing,Hankerchief,COD
+B-25887,2125,23-11-2020,1012,-234,6,Electronics,Printers,EMI
+B-25923,3873,24-11-2020,1013,-891,6,Electronics,Phones,Credit Card
+B-25756,729,25-11-2020,1014,-492,5,Furniture,Bookcases,UPI
+B-25761,2188,26-11-2020,1015,1050,5,Furniture,Bookcases,Credit Card
+B-25655,6,27-11-2020,1016,-3,1,Clothing,Hankerchief,UPI
+B-25786,1854,30-11-2020,1017,433,5,Furniture,Bookcases,Credit Card
+B-26095,6,01-12-2020,1018,1,1,Clothing,Kurti,UPI
+B-25853,2093,02-12-2020,1019,721,5,Furniture,Chairs,Credit Card
+B-25735,7,03-12-2020,1020,-1,2,Clothing,Skirt,UPI
+B-25910,1622,04-12-2020,1021,-624,5,Furniture,Tables,Credit Card
+B-25950,1622,07-12-2020,1022,95,5,Electronics,Printers,Credit Card
+B-25744,373,08-12-2020,1023,254,6,Electronics,Printers,UPI
+B-25845,82,09-12-2020,1024,-33,4,Clothing,Kurti,COD
+B-26001,8,10-12-2020,1025,2,2,Clothing,Skirt,UPI
+B-25830,1954,11-12-2020,1026,782,3,Electronics,Phones,Credit Card
+B-25842,1543,14-12-2020,1027,370,8,Electronics,Printers,Credit Card
+B-25778,1506,15-12-2020,1028,-266,6,Electronics,Printers,Credit Card
+B-25686,1829,16-12-2020,1029,-56,6,Furniture,Tables,Credit Card
+B-25754,9,17-12-2020,1030,-1,3,Clothing,Skirt,UPI
+B-26048,1461,18-12-2020,1031,202,5,Furniture,Tables,EMI
+B-25816,391,21-12-2020,1032,113,8,Clothing,Stole,COD
+B-26022,1824,22-12-2020,1033,1303,8,Electronics,Phones,Credit Card
+B-25883,16,23-12-2020,1034,-15,4,Clothing,Hankerchief,UPI
+B-26003,1745,24-12-2020,1035,122,2,Furniture,Tables,Credit Card
+B-26097,663,25-12-2020,1036,-212,5,Electronics,Printers,UPI
+B-25710,10,28-12-2020,1037,-1,1,Clothing,Leggings,UPI
+B-25797,1630,29-12-2020,1038,802,5,Furniture,Tables,EMI
+B-25618,12,30-12-2020,1039,0,2,Clothing,Hankerchief,UPI
+B-25723,12,31-12-2020,1040,-7,2,Clothing,Leggings,UPI
+B-25755,1709,01-01-2021,1041,564,3,Clothing,Trousers,Credit Card
+B-25788,12,04-01-2021,1042,3,1,Clothing,Stole,UPI
+B-25681,1625,05-01-2021,1043,-77,3,Electronics,Phones,EMI
+B-25991,13,06-01-2021,1044,5,2,Clothing,Hankerchief,UPI
+B-25779,1361,07-01-2021,1045,980,3,Furniture,Tables,COD
+B-25909,1622,08-01-2021,1046,-448,3,Electronics,Phones,EMI
+B-25943,1547,11-01-2021,1047,340,6,Electronics,Accessories,EMI
+B-25935,1657,12-01-2021,1048,460,4,Furniture,Chairs,Credit Card
+B-25613,1603,13-01-2021,1049,0,9,Clothing,Saree,Credit Card
+B-25729,1549,14-01-2021,1050,-439,4,Electronics,Phones,Credit Card
+B-25772,1183,15-01-2021,1051,106,4,Electronics,Printers,EMI
+B-25655,74,18-01-2021,1052,-123,8,Clothing,Skirt,UPI
+B-25640,1499,19-01-2021,1053,239,13,Clothing,Saree,Credit Card
+B-25810,1120,20-01-2021,1054,199,6,Clothing,Saree,EMI
+B-25801,15,21-01-2021,1055,-2,1,Clothing,T-shirt,Debit Card
+B-26085,1487,22-01-2021,1056,624,3,Clothing,Trousers,Credit Card
+B-25868,1118,25-01-2021,1057,206,2,Furniture,Tables,Credit Card
+B-25714,11,26-01-2021,1058,-5,2,Clothing,Hankerchief,COD
+B-25784,15,27-01-2021,1059,4,1,Clothing,Hankerchief,Debit Card
+B-25608,1364,28-01-2021,1060,1864,5,Furniture,Tables,Credit Card
+B-26051,1337,29-01-2021,1061,147,7,Electronics,Printers,Credit Card
+B-25900,15,01-02-2021,1062,2,1,Clothing,Leggings,Debit Card
+B-25760,322,02-02-2021,1063,-193,5,Electronics,Printers,UPI
+B-25762,1316,03-02-2021,1064,527,7,Electronics,Electronic Games,Credit Card
+B-25995,1314,04-02-2021,1065,342,3,Furniture,Bookcases,Credit Card
+B-25965,17,05-02-2021,1066,7,3,Clothing,Hankerchief,Debit Card
+B-25967,17,08-02-2021,1067,2,2,Clothing,Skirt,Debit Card
+B-25674,17,09-02-2021,1068,-12,5,Clothing,Skirt,Debit Card
+B-25929,1308,10-02-2021,1069,536,3,Furniture,Bookcases,Credit Card
+B-25777,1076,11-02-2021,1070,-38,4,Electronics,Printers,Credit Card
+B-26006,1301,12-02-2021,1071,573,5,Electronics,Accessories,Credit Card
+B-25697,1300,15-02-2021,1072,-16,8,Electronics,Printers,Credit Card
+B-25667,11,16-02-2021,1073,-2,4,Clothing,Hankerchief,COD
+B-25836,1298,17-02-2021,1074,65,9,Electronics,Printers,EMI
+B-25984,304,18-02-2021,1075,97,6,Clothing,Stole,UPI
+B-25728,1055,19-02-2021,1076,264,4,Electronics,Printers,EMI
+B-25757,17,22-02-2021,1077,-13,4,Clothing,Skirt,Debit Card
+B-25957,147,23-02-2021,1078,73,3,Clothing,Stole,COD
+B-26061,965,24-02-2021,1079,-68,3,Electronics,Printers,COD
+B-25735,12,25-02-2021,1080,-2,3,Clothing,Hankerchief,COD
+B-25616,14,26-02-2021,1081,-2,3,Clothing,Hankerchief,UPI
+B-25666,934,01-03-2021,1082,-916,7,Electronics,Electronic Games,COD
+B-25675,929,02-03-2021,1083,-93,9,Clothing,Saree,COD
+B-26079,18,03-03-2021,1084,3,2,Clothing,Hankerchief,Debit Card
+B-25850,916,04-03-2021,1085,192,11,Electronics,Phones,COD
+B-25693,76,05-03-2021,1086,-72,9,Clothing,Hankerchief,COD
+B-25852,869,08-03-2021,1087,67,4,Furniture,Tables,COD
+B-25860,112,09-03-2021,1088,24,3,Clothing,Kurti,COD
+B-25853,39,10-03-2021,1089,16,6,Clothing,Skirt,UPI
+B-25898,857,11-03-2021,1090,-274,2,Furniture,Tables,COD
+B-26100,828,12-03-2021,1091,230,2,Furniture,Chairs,COD
+B-25653,1279,15-03-2021,1092,-640,8,Electronics,Printers,EMI
+B-25839,1250,16-03-2021,1093,486,7,Clothing,Saree,EMI
+B-25651,823,17-03-2021,1094,-18,7,Furniture,Chairs,COD
+B-25957,1157,18-03-2021,1095,-13,9,Furniture,Bookcases,Credit Card
+B-25704,126,19-03-2021,1096,-63,3,Electronics,Accessories,UPI
+B-25730,1145,22-03-2021,1097,-706,3,Electronics,Phones,Credit Card
+B-26052,774,23-03-2021,1098,170,3,Electronics,Accessories,COD
+B-25656,24,24-03-2021,1099,-1,2,Clothing,Hankerchief,COD
+B-26033,774,25-03-2021,1100,170,3,Electronics,Accessories,COD
+B-25850,93,26-03-2021,1101,-1,2,Clothing,Hankerchief,COD
+B-25945,765,29-03-2021,1102,-36,3,Electronics,Electronic Games,COD
+B-26086,762,30-03-2021,1103,101,6,Electronics,Printers,COD
+B-25752,761,31-03-2021,1104,266,9,Electronics,Electronic Games,COD
+B-26098,96,01-04-2021,1105,-48,5,Clothing,Leggings,UPI
+B-26067,1137,02-04-2021,1106,-14,7,Electronics,Printers,EMI
+B-25730,18,05-04-2021,1107,8,2,Clothing,Hankerchief,Debit Card
+B-25986,749,06-04-2021,1108,-307,7,Furniture,Furnishings,COD
+B-26067,1120,07-04-2021,1109,199,6,Clothing,Saree,EMI
+B-25953,744,08-04-2021,1110,119,6,Electronics,Printers,COD
+B-25952,14,09-04-2021,1111,0,4,Clothing,Hankerchief,UPI
+B-25903,19,12-04-2021,1112,8,2,Clothing,Hankerchief,Debit Card
+B-25650,512,13-04-2021,1113,-225,5,Clothing,Saree,COD
+B-25970,742,14-04-2021,1114,198,2,Furniture,Bookcases,COD
+B-26062,44,15-04-2021,1115,-40,3,Clothing,Stole,COD
+B-25643,1061,16-04-2021,1116,-36,8,Furniture,Bookcases,EMI
+B-25632,19,19-04-2021,1117,-2,2,Clothing,Leggings,Debit Card
+B-25821,17,20-04-2021,1118,0,1,Clothing,Hankerchief,COD
+B-25878,741,21-04-2021,1119,267,5,Furniture,Bookcases,COD
+B-25752,735,22-04-2021,1120,-235,6,Electronics,Printers,COD
+B-25750,19,23-04-2021,1121,-1,1,Clothing,Shirt,Debit Card
+B-25657,1021,26-04-2021,1122,-48,4,Electronics,Electronic Games,EMI
+B-25787,556,27-04-2021,1123,-209,7,Clothing,Saree,COD
+B-25808,63,28-04-2021,1124,-17,6,Clothing,Leggings,COD
+B-25885,734,29-04-2021,1125,248,2,Furniture,Chairs,COD
+B-25778,933,30-04-2021,1126,166,5,Clothing,Saree,Credit Card
+B-25759,20,03-05-2021,1127,-9,6,Clothing,Hankerchief,Debit Card
+B-25747,877,04-05-2021,1128,395,2,Furniture,Bookcases,Credit Card
+B-25878,719,05-05-2021,1129,303,6,Furniture,Chairs,COD
+B-25603,12,06-05-2021,1130,1,2,Clothing,Hankerchief,COD
+B-25691,714,07-05-2021,1131,56,4,Clothing,Saree,COD
+B-25607,50,10-05-2021,1132,-15,4,Clothing,Leggings,COD
+B-25708,709,11-05-2021,1133,-100,5,Electronics,Phones,COD
+B-26021,21,12-05-2021,1134,-12,3,Clothing,Hankerchief,Debit Card
+B-25831,693,13-05-2021,1135,254,6,Clothing,Saree,COD
+B-25850,24,14-05-2021,1136,1,4,Clothing,Hankerchief,COD
+B-25670,24,17-05-2021,1137,1,2,Clothing,Hankerchief,UPI
+B-25852,24,18-05-2021,1138,1,2,Clothing,Hankerchief,COD
+B-26029,21,19-05-2021,1139,10,1,Clothing,T-shirt,Debit Card
+B-25959,681,20-05-2021,1140,259,4,Furniture,Chairs,COD
+B-25676,674,21-05-2021,1141,-187,2,Furniture,Tables,COD
+B-26097,671,24-05-2021,1142,-309,5,Electronics,Electronic Games,COD
+B-25888,646,25-05-2021,1143,-213,3,Electronics,Electronic Games,COD
+B-25911,40,26-05-2021,1144,15,1,Clothing,Kurti,COD
+B-25662,24,27-05-2021,1145,-2,2,Clothing,T-shirt,COD
+B-25950,644,28-05-2021,1146,167,2,Electronics,Printers,COD
+B-25847,643,31-05-2021,1147,225,2,Electronics,Printers,COD
+B-25796,632,01-06-2021,1148,-316,6,Clothing,Saree,COD
+B-25693,632,02-06-2021,1149,316,6,Clothing,Saree,COD
+B-25993,610,03-06-2021,1150,208,3,Electronics,Printers,COD
+B-26052,78,04-06-2021,1151,-28,6,Clothing,Kurti,UPI
+B-25930,595,07-06-2021,1152,119,4,Furniture,Bookcases,COD
+B-25785,595,08-06-2021,1153,292,3,Clothing,Saree,COD
+B-26093,852,09-06-2021,1154,51,5,Furniture,Bookcases,Credit Card
+B-26053,594,10-06-2021,1155,89,3,Furniture,Bookcases,COD
+B-26019,585,11-06-2021,1156,175,13,Clothing,T-shirt,COD
+B-26070,582,14-06-2021,1157,262,5,Furniture,Furnishings,COD
+B-25870,845,15-06-2021,1158,84,7,Clothing,Saree,Credit Card
+B-25855,829,16-06-2021,1159,19,4,Electronics,Printers,Credit Card
+B-25602,561,17-06-2021,1160,212,3,Clothing,Saree,COD
+B-25728,771,18-06-2021,1161,-424,2,Electronics,Phones,Credit Card
+B-25803,765,21-06-2021,1162,8,6,Clothing,Saree,EMI
+B-25996,31,22-06-2021,1163,2,2,Clothing,Hankerchief,COD
+B-26078,557,23-06-2021,1164,-111,2,Electronics,Electronic Games,COD
+B-25803,757,24-06-2021,1165,371,2,Electronics,Printers,Credit Card
+B-25682,545,25-06-2021,1166,-73,11,Electronics,Phones,COD
+B-25749,1052,28-06-2021,1167,-82,3,Furniture,Bookcases,UPI
+B-25962,544,29-06-2021,1168,-152,3,Furniture,Bookcases,COD
+B-25899,22,30-06-2021,1169,9,2,Clothing,Leggings,Debit Card
+B-25845,757,01-07-2021,1170,371,2,Electronics,Printers,Credit Card
+B-25951,742,02-07-2021,1171,198,2,Furniture,Bookcases,Credit Card
+B-25828,537,05-07-2021,1172,107,3,Clothing,Saree,COD
+B-25803,536,06-07-2021,1173,91,1,Clothing,Trousers,COD
+B-25656,6,07-07-2021,1174,3,1,Clothing,Hankerchief,COD
+B-25681,523,08-07-2021,1175,204,7,Clothing,Trousers,COD
+B-25658,27,09-07-2021,1176,9,2,Clothing,T-shirt,UPI
+B-25698,516,12-07-2021,1177,392,8,Furniture,Chairs,COD
+B-25832,504,13-07-2021,1178,116,3,Furniture,Bookcases,COD
+B-25886,502,14-07-2021,1179,84,4,Electronics,Phones,COD
+B-25897,734,15-07-2021,1180,213,6,Electronics,Electronic Games,Credit Card
+B-25873,42,16-07-2021,1181,12,2,Clothing,Kurti,COD
+B-25858,29,19-07-2021,1182,11,4,Clothing,Skirt,COD
+B-25867,240,20-07-2021,1183,12,6,Clothing,Kurti,UPI
+B-25633,496,21-07-2021,1184,-79,2,Clothing,Trousers,COD
+B-25609,485,22-07-2021,1185,29,4,Electronics,Electronic Games,COD
+B-25896,31,23-07-2021,1186,-11,3,Clothing,Skirt,UPI
+B-26000,676,26-07-2021,1187,151,3,Electronics,Printers,Credit Card
+B-25959,23,27-07-2021,1188,8,2,Clothing,Hankerchief,Debit Card
+B-25940,13,28-07-2021,1189,3,2,Clothing,Hankerchief,COD
+B-26087,180,29-07-2021,1190,0,8,Clothing,Stole,COD
+B-26055,671,30-07-2021,1191,114,9,Electronics,Phones,Credit Card
+B-25980,22,02-08-2021,1192,11,3,Clothing,Kurti,COD
+B-25653,668,03-08-2021,1193,-31,3,Electronics,Printers,Credit Card
+B-26052,145,04-08-2021,1194,0,3,Clothing,Saree,UPI
+B-25877,24,05-08-2021,1195,8,2,Clothing,Skirt,Debit Card
+B-25608,476,06-08-2021,1196,0,3,Furniture,Chairs,COD
+B-25897,24,09-08-2021,1197,11,5,Clothing,Hankerchief,Debit Card
+B-25881,37,10-08-2021,1198,3,3,Clothing,Hankerchief,COD
+B-25905,152,11-08-2021,1199,50,6,Clothing,Stole,UPI
+B-25818,32,12-08-2021,1200,11,2,Clothing,Leggings,UPI
+B-25835,52,13-08-2021,1201,11,5,Clothing,Leggings,COD
+B-26081,24,16-08-2021,1202,11,3,Clothing,Hankerchief,Debit Card
+B-25730,473,17-08-2021,1203,42,4,Furniture,Chairs,COD
+B-25837,263,18-08-2021,1204,50,5,Clothing,Stole,COD
+B-25893,61,19-08-2021,1205,11,3,Clothing,Kurti,COD
+B-25689,469,20-08-2021,1206,-459,3,Electronics,Electronic Games,COD
+B-26028,1272,23-08-2021,1207,547,2,Electronics,Phones,COD
+B-26081,169,24-08-2021,1208,0,3,Electronics,Accessories,COD
+B-25903,25,25-08-2021,1209,11,3,Clothing,Leggings,Debit Card
+B-25651,457,26-08-2021,1210,-41,4,Clothing,Saree,COD
+B-25903,455,27-08-2021,1211,77,8,Electronics,Accessories,COD
+B-26086,25,30-08-2021,1212,2,2,Clothing,Hankerchief,Debit Card
+B-25654,450,31-08-2021,1213,-90,3,Electronics,Printers,COD
+B-25720,30,01-09-2021,1214,-35,1,Furniture,Chairs,COD
+B-26057,659,02-09-2021,1215,-37,2,Furniture,Bookcases,Credit Card
+B-25798,448,03-09-2021,1216,148,2,Electronics,Printers,COD
+B-25961,446,06-09-2021,1217,53,3,Electronics,Printers,COD
+B-25701,98,07-09-2021,1218,-45,2,Furniture,Chairs,UPI
+B-26055,443,08-09-2021,1219,11,1,Clothing,Saree,COD
+B-25653,427,09-09-2021,1220,-50,7,Electronics,Phones,COD
+B-25670,656,10-09-2021,1221,-36,2,Furniture,Bookcases,Credit Card
+B-26056,424,13-09-2021,1222,161,2,Clothing,Saree,COD
+B-26061,27,14-09-2021,1223,8,2,Clothing,T-shirt,Debit Card
+B-25602,424,15-09-2021,1224,-272,5,Electronics,Phones,COD
+B-26016,202,16-09-2021,1225,4,4,Clothing,Hankerchief,COD
+B-25873,1275,17-09-2021,1226,357,2,Electronics,Phones,UPI
+B-25761,418,20-09-2021,1227,70,7,Electronics,Phones,COD
+B-25819,417,21-09-2021,1228,49,3,Electronics,Electronic Games,COD
+B-25853,199,22-09-2021,1229,48,4,Clothing,Stole,UPI
+B-25662,385,23-09-2021,1230,-77,11,Furniture,Furnishings,UPI
+B-25993,414,24-09-2021,1231,199,3,Electronics,Phones,COD
+B-25703,97,27-09-2021,1232,-45,4,Clothing,Saree,COD
+B-25848,648,28-09-2021,1233,50,6,Electronics,Electronic Games,Credit Card
+B-25678,27,29-09-2021,1234,-25,2,Clothing,Shirt,Debit Card
+B-25925,27,30-09-2021,1235,12,1,Clothing,Stole,Debit Card
+B-25977,27,01-10-2021,1236,1,1,Clothing,Stole,UPI
+B-25797,413,04-10-2021,1237,-314,9,Furniture,Chairs,COD
+B-26067,53,05-10-2021,1238,2,4,Clothing,Hankerchief,COD
+B-25810,29,06-10-2021,1239,8,5,Clothing,Hankerchief,UPI
+B-25648,30,07-10-2021,1240,13,1,Clothing,T-shirt,UPI
+B-25933,412,08-10-2021,1241,412,6,Clothing,Saree,COD
+B-25942,646,11-10-2021,1242,-23,2,Electronics,Printers,Credit Card
+B-25656,30,12-10-2021,1243,-5,5,Clothing,Stole,UPI
+B-26067,618,13-10-2021,1244,27,4,Furniture,Bookcases,Credit Card
+B-25673,143,14-10-2021,1245,-124,5,Clothing,Saree,UPI
+B-25797,31,15-10-2021,1246,1,2,Clothing,Hankerchief,UPI
+B-26098,409,18-10-2021,1247,86,3,Clothing,Saree,COD
+B-25656,406,19-10-2021,1248,126,2,Clothing,Saree,COD
+B-25791,565,20-10-2021,1249,66,7,Clothing,Saree,Credit Card
+B-26053,85,21-10-2021,1250,2,6,Clothing,Stole,COD
+B-25983,561,22-10-2021,1251,118,5,Furniture,Bookcases,Credit Card
+B-25743,503,25-10-2021,1252,-56,2,Clothing,Trousers,COD
+B-25867,31,26-10-2021,1253,14,3,Clothing,Stole,UPI
+B-25973,398,27-10-2021,1254,111,8,Clothing,Hankerchief,COD
+B-25895,388,28-10-2021,1255,93,2,Furniture,Bookcases,COD
+B-26003,498,29-10-2021,1256,-116,4,Clothing,Saree,UPI
+B-25717,561,01-11-2021,1257,212,3,Clothing,Saree,Credit Card
+B-26064,61,02-11-2021,1258,3,4,Clothing,Hankerchief,COD
+B-25630,34,03-11-2021,1259,-22,4,Clothing,T-shirt,COD
+B-26050,32,04-11-2021,1260,6,3,Clothing,Shirt,UPI
+B-25786,623,05-11-2021,1261,-192,3,Furniture,Tables,UPI
+B-26035,520,08-11-2021,1262,151,3,Electronics,Phones,Credit Card
+B-25693,32,09-11-2021,1263,-16,6,Clothing,Saree,UPI
+B-25703,32,10-11-2021,1264,-5,5,Clothing,Hankerchief,UPI
+B-25966,510,11-11-2021,1265,234,6,Electronics,Electronic Games,EMI
+B-26060,382,12-11-2021,1266,68,3,Clothing,Saree,COD
+B-25898,33,15-11-2021,1267,13,3,Clothing,Leggings,UPI
+B-25686,381,16-11-2021,1268,-13,2,Clothing,Saree,COD
+B-26051,490,17-11-2021,1269,88,2,Electronics,Accessories,EMI
+B-25854,381,18-11-2021,1270,144,2,Clothing,Saree,COD
+B-26050,487,19-11-2021,1271,143,4,Electronics,Phones,EMI
+B-25961,366,22-11-2021,1272,84,3,Furniture,Bookcases,COD
+B-25701,33,23-11-2021,1273,-29,3,Clothing,Shirt,UPI
+B-25970,365,24-11-2021,1274,107,3,Electronics,Phones,COD
+B-25933,207,25-11-2021,1275,-100,2,Clothing,Saree,UPI
+B-26081,359,26-11-2021,1276,-338,5,Furniture,Bookcases,COD
+B-25650,351,29-11-2021,1277,-47,8,Electronics,Phones,COD
+B-25850,485,30-11-2021,1278,199,4,Clothing,Saree,EMI
+B-25643,37,01-12-2021,1279,-23,4,Clothing,Shirt,UPI
+B-26100,34,02-12-2021,1280,10,2,Clothing,T-shirt,Debit Card
+B-25964,346,03-12-2021,1281,108,3,Furniture,Chairs,COD
+B-25676,342,06-12-2021,1282,-103,4,Electronics,Electronic Games,COD
+B-25628,35,07-12-2021,1283,-8,2,Furniture,Furnishings,Debit Card
+B-25891,121,08-12-2021,1284,41,4,Clothing,Stole,UPI
+B-25903,336,09-12-2021,1285,57,2,Electronics,Phones,COD
+B-25851,336,10-12-2021,1286,71,3,Furniture,Bookcases,COD
+B-26089,27,13-12-2021,1287,4,1,Clothing,Hankerchief,COD
+B-25996,333,14-12-2021,1288,50,2,Electronics,Phones,COD
+B-25881,36,15-12-2021,1289,7,3,Clothing,Leggings,Debit Card
+B-25621,333,16-12-2021,1290,-15,3,Electronics,Phones,COD
+B-25727,327,17-12-2021,1291,114,4,Clothing,Trousers,COD
+B-25843,18,20-12-2021,1292,6,3,Clothing,Hankerchief,UPI
+B-26050,325,21-12-2021,1293,32,7,Clothing,T-shirt,COD
+B-25741,482,22-12-2021,1294,-6,7,Electronics,Electronic Games,EMI
+B-25756,465,23-12-2021,1295,-33,4,Electronics,Phones,EMI
+B-25787,40,24-12-2021,1296,-12,3,Clothing,Shirt,COD
+B-25603,107,27-12-2021,1297,36,6,Clothing,Stole,COD
+B-25655,312,28-12-2021,1298,-312,7,Furniture,Chairs,COD
+B-26096,451,29-12-2021,1299,25,3,Electronics,Phones,EMI
+B-25962,312,30-12-2021,1300,62,1,Electronics,Electronic Games,COD
+B-26007,311,31-12-2021,1301,72,2,Furniture,Bookcases,COD
+B-26088,11,03-01-2022,1302,5,2,Clothing,Hankerchief,UPI
+B-25673,37,04-01-2022,1303,-5,3,Clothing,T-shirt,Debit Card
+B-25664,444,05-01-2022,1304,-200,4,Electronics,Phones,EMI
+B-25642,434,06-01-2022,1305,26,11,Clothing,Shirt,Credit Card
+B-25987,299,07-01-2022,1306,0,6,Clothing,Stole,COD
+B-25903,37,10-01-2022,1307,17,3,Clothing,Hankerchief,Debit Card
+B-25770,299,11-01-2022,1308,113,2,Furniture,Bookcases,COD
+B-25840,298,12-01-2022,1309,74,2,Furniture,Bookcases,COD
+B-25846,94,13-01-2022,1310,7,7,Clothing,Leggings,UPI
+B-25745,296,14-01-2022,1311,225,11,Clothing,Saree,COD
+B-26073,37,17-01-2022,1312,17,3,Clothing,Hankerchief,Debit Card
+B-26030,291,18-01-2022,1313,93,2,Electronics,Printers,COD
+B-25678,327,19-01-2022,1314,-39,1,Electronics,Phones,COD
+B-26035,291,20-01-2022,1315,119,11,Clothing,Saree,COD
+B-25896,287,21-01-2022,1316,-66,6,Clothing,Kurti,COD
+B-25989,42,24-01-2022,1317,15,1,Electronics,Accessories,UPI
+B-26016,429,25-01-2022,1318,61,3,Electronics,Electronic Games,Credit Card
+B-26009,285,26-01-2022,1319,128,2,Electronics,Printers,COD
+B-25915,277,27-01-2022,1320,3,1,Electronics,Electronic Games,COD
+B-25845,274,28-01-2022,1321,-7,4,Electronics,Phones,COD
+B-25645,273,31-01-2022,1322,-87,4,Electronics,Phones,COD
+B-25803,269,01-02-2022,1323,91,1,Electronics,Electronic Games,COD
+B-26030,11,02-02-2022,1324,5,1,Clothing,Skirt,COD
+B-25955,39,03-02-2022,1325,2,2,Clothing,Saree,Debit Card
+B-26096,264,04-02-2022,1326,-26,3,Clothing,Trousers,COD
+B-25635,40,07-02-2022,1327,16,3,Clothing,Hankerchief,Debit Card
+B-26038,41,08-02-2022,1328,19,2,Clothing,T-shirt,Debit Card
+B-25791,253,09-02-2022,1329,-63,2,Clothing,Saree,UPI
+B-26014,406,10-02-2022,1330,97,7,Furniture,Chairs,Credit Card
+B-25751,32,11-02-2022,1331,7,3,Clothing,Hankerchief,COD
+B-25962,260,14-02-2022,1332,68,2,Electronics,Printers,COD
+B-26025,41,15-02-2022,1333,19,5,Clothing,Hankerchief,Debit Card
+B-26048,401,16-02-2022,1334,13,6,Furniture,Chairs,Credit Card
+B-25635,382,17-02-2022,1335,30,3,Clothing,Saree,Credit Card
+B-25981,867,18-02-2022,1336,251,5,Electronics,Phones,COD
+B-25610,43,21-02-2022,1337,0,3,Clothing,Saree,Debit Card
+B-25733,43,22-02-2022,1338,-43,7,Clothing,Stole,Debit Card
+B-25977,74,23-02-2022,1339,29,3,Clothing,Stole,COD
+B-25655,44,24-02-2022,1340,-26,3,Clothing,Hankerchief,Debit Card
+B-25612,259,25-02-2022,1341,-55,2,Furniture,Chairs,COD
+B-25608,257,28-02-2022,1342,23,5,Clothing,Hankerchief,COD
+B-25752,76,01-03-2022,1343,27,5,Clothing,Stole,COD
+B-25700,44,02-03-2022,1344,-32,3,Clothing,Stole,Debit Card
+B-25856,257,03-03-2022,1345,3,2,Clothing,Saree,COD
+B-26026,255,04-03-2022,1346,76,9,Clothing,Hankerchief,COD
+B-25861,44,07-03-2022,1347,14,3,Clothing,Hankerchief,Debit Card
+B-25673,45,08-03-2022,1348,-2,4,Clothing,Shirt,COD
+B-25681,44,09-03-2022,1349,-3,1,Clothing,Saree,Debit Card
+B-26051,382,10-03-2022,1350,119,2,Clothing,Saree,Credit Card
+B-25951,250,11-03-2022,1351,100,3,Clothing,Trousers,COD
+B-25799,45,14-03-2022,1352,-15,2,Furniture,Chairs,COD
+B-26053,246,15-03-2022,1353,61,2,Furniture,Bookcases,COD
+B-26030,50,16-03-2022,1354,25,5,Clothing,Stole,COD
+B-26054,246,17-03-2022,1355,98,5,Clothing,Hankerchief,COD
+B-25696,44,18-03-2022,1356,99,3,Clothing,Kurti,Debit Card
+B-25660,245,21-03-2022,1357,-78,3,Clothing,Saree,COD
+B-25858,245,22-03-2022,1358,30,2,Clothing,Saree,COD
+B-26045,376,23-03-2022,1359,0,7,Clothing,Stole,Credit Card
+B-25850,45,24-03-2022,1360,1,3,Clothing,T-shirt,Debit Card
+B-25781,45,25-03-2022,1361,-28,2,Clothing,Stole,Debit Card
+B-25918,244,28-03-2022,1362,-122,5,Furniture,Furnishings,COD
+B-25971,244,29-03-2022,1363,83,2,Furniture,Bookcases,COD
+B-25870,10,30-03-2022,1364,4,1,Clothing,Kurti,UPI
+B-25770,375,31-03-2022,1365,180,3,Furniture,Bookcases,Credit Card
+B-25757,46,01-04-2022,1366,14,5,Clothing,Skirt,Debit Card
+B-25699,49,04-04-2022,1367,-31,2,Clothing,Stole,UPI
+B-25776,47,05-04-2022,1368,-20,2,Clothing,Kurti,Debit Card
+B-25893,355,06-04-2022,1369,-114,7,Clothing,Stole,Credit Card
+B-25985,32,07-04-2022,1370,8,5,Clothing,Hankerchief,UPI
+B-25681,243,08-04-2022,1371,-14,2,Furniture,Chairs,COD
+B-26063,241,11-04-2022,1372,-77,4,Electronics,Electronic Games,COD
+B-26032,47,12-04-2022,1373,15,5,Clothing,Saree,Debit Card
+B-26001,50,13-04-2022,1374,-10,6,Clothing,Skirt,Debit Card
+B-26056,15,14-04-2022,1375,6,2,Clothing,Hankerchief,COD
+B-25850,148,15-04-2022,1376,24,3,Clothing,Stole,COD
+B-25767,299,18-04-2022,1377,-28,3,Electronics,Electronic Games,UPI
+B-25693,68,19-04-2022,1378,-30,1,Electronics,Phones,UPI
+B-25850,52,20-04-2022,1379,18,5,Clothing,Leggings,Debit Card
+B-25796,239,21-04-2022,1380,-162,5,Furniture,Chairs,COD
+B-26053,27,22-04-2022,1381,6,3,Clothing,Skirt,COD
+B-25650,238,25-04-2022,1382,20,2,Clothing,Saree,COD
+B-25961,48,26-04-2022,1383,16,3,Clothing,Shirt,COD
+B-26023,66,27-04-2022,1384,22,3,Clothing,Stole,UPI
+B-25809,53,28-04-2022,1385,24,1,Clothing,Hankerchief,Debit Card
+B-25621,233,29-04-2022,1386,-10,5,Electronics,Electronic Games,COD
+B-25854,53,02-05-2022,1387,-2,3,Clothing,Saree,Debit Card
+B-26057,54,03-05-2022,1388,8,4,Clothing,T-shirt,Debit Card
+B-25688,352,04-05-2022,1389,-345,5,Clothing,Saree,Credit Card
+B-25885,349,05-05-2022,1390,0,7,Clothing,Stole,Credit Card
+B-25753,341,06-05-2022,1391,-85,6,Clothing,Trousers,Credit Card
+B-25981,54,09-05-2022,1392,12,3,Clothing,Saree,Debit Card
+B-26055,57,10-05-2022,1393,7,2,Clothing,Shirt,UPI
+B-25714,340,11-05-2022,1394,20,7,Clothing,Shirt,Credit Card
+B-26055,227,12-05-2022,1395,48,5,Clothing,Stole,COD
+B-25989,330,13-05-2022,1396,81,1,Furniture,Bookcases,Credit Card
+B-25710,216,16-05-2022,1397,-38,6,Furniture,Furnishings,UPI
+B-25773,224,17-05-2022,1398,-143,3,Furniture,Chairs,COD
+B-25661,55,18-05-2022,1399,-33,2,Furniture,Chairs,Debit Card
+B-26021,49,19-05-2022,1400,21,1,Clothing,Stole,UPI
+B-26057,224,20-05-2022,1401,87,3,Clothing,Trousers,COD
+B-25858,223,23-05-2022,1402,27,2,Furniture,Bookcases,COD
+B-25857,324,24-05-2022,1403,39,8,Electronics,Accessories,Credit Card
+B-25656,56,25-05-2022,1404,18,2,Clothing,Hankerchief,Debit Card
+B-25999,223,26-05-2022,1405,62,7,Clothing,Shirt,COD
+B-25856,10,27-05-2022,1406,2,2,Clothing,Skirt,COD
+B-25926,57,30-05-2022,1407,6,5,Clothing,Leggings,Debit Card
+B-25728,322,31-05-2022,1408,-113,4,Clothing,Saree,Credit Card
+B-26076,219,01-06-2022,1409,4,2,Clothing,Saree,COD
+B-25913,103,02-06-2022,1410,21,7,Clothing,Stole,UPI
+B-25703,47,03-06-2022,1411,-27,4,Clothing,Saree,COD
+B-25858,219,06-06-2022,1412,0,1,Clothing,Saree,COD
+B-25727,57,07-06-2022,1413,-48,6,Clothing,Leggings,Debit Card
+B-26020,319,08-06-2022,1414,102,6,Electronics,Accessories,Credit Card
+B-26003,315,09-06-2022,1415,-8,3,Furniture,Chairs,Credit Card
+B-25925,314,10-06-2022,1416,-41,3,Electronics,Electronic Games,Credit Card
+B-26087,311,13-06-2022,1417,40,1,Electronics,Electronic Games,EMI
+B-25810,307,14-06-2022,1418,74,3,Electronics,Accessories,EMI
+B-25858,294,15-06-2022,1419,109,7,Electronics,Accessories,EMI
+B-25861,216,16-06-2022,1420,-83,3,Electronics,Electronic Games,COD
+B-25661,58,17-06-2022,1421,-42,2,Furniture,Chairs,Debit Card
+B-25943,48,20-06-2022,1422,20,4,Clothing,Stole,UPI
+B-25955,54,21-06-2022,1423,14,3,Clothing,T-shirt,UPI
+B-26051,216,22-06-2022,1424,50,4,Clothing,Stole,COD
+B-25999,215,23-06-2022,1425,-30,2,Clothing,Saree,COD
+B-26083,43,24-06-2022,1426,8,3,Clothing,Leggings,COD
+B-25950,136,27-06-2022,1427,-33,5,Clothing,Saree,COD
+B-25625,59,28-06-2022,1428,-30,3,Clothing,Leggings,Debit Card
+B-26055,213,29-06-2022,1429,4,14,Clothing,Shirt,COD
+B-26023,59,30-06-2022,1430,21,2,Clothing,Stole,Debit Card
+B-26010,55,01-07-2022,1431,3,3,Clothing,T-shirt,COD
+B-25955,294,04-07-2022,1432,62,9,Clothing,T-shirt,EMI
+B-25900,210,05-07-2022,1433,62,2,Electronics,Phones,COD
+B-26089,59,06-07-2022,1434,24,6,Clothing,Kurti,Debit Card
+B-25655,396,07-07-2022,1435,-31,9,Clothing,Saree,COD
+B-25979,284,08-07-2022,1436,45,2,Furniture,Bookcases,EMI
+B-26002,276,11-07-2022,1437,52,5,Clothing,Saree,EMI
+B-25635,23,12-07-2022,1438,2,2,Clothing,Skirt,UPI
+B-26084,209,13-07-2022,1439,-63,4,Electronics,Electronic Games,COD
+B-25998,50,14-07-2022,1440,-28,5,Furniture,Furnishings,COD
+B-25872,57,15-07-2022,1441,27,2,Clothing,Shirt,COD
+B-25795,276,18-07-2022,1442,-21,2,Electronics,Phones,EMI
+B-25902,268,19-07-2022,1443,6,2,Furniture,Bookcases,UPI
+B-25650,269,20-07-2022,1444,111,3,Clothing,Trousers,EMI
+B-25957,209,21-07-2022,1445,2,1,Clothing,Saree,COD
+B-25793,60,22-07-2022,1446,-12,4,Clothing,Hankerchief,Debit Card
+B-25654,269,25-07-2022,1447,-86,2,Electronics,Electronic Games,EMI
+B-25750,208,26-07-2022,1448,-25,2,Clothing,Saree,COD
+B-25835,27,27-07-2022,1449,2,2,Clothing,Leggings,UPI
+B-25652,206,28-07-2022,1450,-206,3,Clothing,Saree,COD
+B-26018,61,29-07-2022,1451,8,4,Clothing,Hankerchief,Debit Card
+B-25750,212,01-08-2022,1452,-24,2,Furniture,Chairs,COD
+B-25840,262,02-08-2022,1453,64,6,Clothing,Saree,EMI
+B-25756,204,03-08-2022,1454,276,3,Furniture,Bookcases,COD
+B-25777,59,04-08-2022,1455,-46,7,Clothing,T-shirt,UPI
+B-25750,199,05-08-2022,1456,-18,2,Clothing,Saree,COD
+B-25823,59,08-08-2022,1457,6,1,Electronics,Accessories,UPI
+B-26096,45,09-08-2022,1458,9,3,Clothing,Leggings,UPI
+B-25757,211,10-08-2022,1459,19,8,Clothing,Stole,COD
+B-25698,65,11-08-2022,1460,-16,2,Electronics,Phones,Debit Card
+B-25710,25,12-08-2022,1461,0,4,Clothing,Skirt,UPI
+B-25994,196,15-08-2022,1462,-7,5,Electronics,Phones,COD
+B-25950,261,16-08-2022,1463,13,6,Clothing,Shirt,Credit Card
+B-25653,195,17-08-2022,1464,-117,5,Electronics,Phones,COD
+B-25785,192,18-08-2022,1465,-146,3,Clothing,Saree,COD
+B-25863,189,19-08-2022,1466,87,7,Clothing,Stole,COD
+B-25959,32,22-08-2022,1467,2,2,Clothing,Kurti,UPI
+B-25991,188,23-08-2022,1468,13,7,Clothing,Shirt,COD
+B-25680,73,24-08-2022,1469,-25,3,Clothing,Saree,COD
+B-25910,259,25-08-2022,1470,47,5,Clothing,Hankerchief,Credit Card
+B-25737,187,26-08-2022,1471,-15,3,Clothing,Trousers,COD
+B-25853,26,29-08-2022,1472,11,2,Clothing,Hankerchief,UPI
+B-26097,185,30-08-2022,1473,-26,6,Furniture,Chairs,COD
+B-25875,248,31-08-2022,1474,8,2,Clothing,Saree,Credit Card
+B-26031,67,01-09-2022,1475,9,4,Clothing,Leggings,Debit Card
+B-25773,248,02-09-2022,1476,-70,3,Furniture,Chairs,Credit Card
+B-25840,246,05-09-2022,1477,61,2,Furniture,Bookcases,Credit Card
+B-25908,179,06-09-2022,1478,-25,5,Clothing,Kurti,COD
+B-26041,176,07-09-2022,1479,-28,5,Furniture,Furnishings,COD
+B-26010,176,08-09-2022,1480,-13,5,Furniture,Furnishings,COD
+B-25640,68,09-09-2022,1481,-62,2,Clothing,Trousers,Debit Card
+B-25794,176,12-09-2022,1482,37,6,Electronics,Accessories,COD
+B-25987,88,13-09-2022,1483,11,7,Clothing,Hankerchief,UPI
+B-25615,68,14-09-2022,1484,20,5,Clothing,Hankerchief,Debit Card
+B-25997,231,15-09-2022,1485,99,2,Electronics,Electronic Games,Credit Card
+B-25981,62,16-09-2022,1486,8,2,Clothing,T-shirt,UPI
+B-25791,175,19-09-2022,1487,77,3,Clothing,Saree,COD
+B-25986,71,20-09-2022,1488,4,5,Clothing,Leggings,Debit Card
+B-25652,174,21-09-2022,1489,-70,3,Electronics,Accessories,COD
+B-25952,173,22-09-2022,1490,69,3,Furniture,Chairs,COD
+B-25898,171,23-09-2022,1491,2,2,Electronics,Electronic Games,COD
+B-25785,268,26-09-2022,1492,-25,3,Clothing,Saree,COD
+B-25990,71,27-09-2022,1493,32,3,Clothing,Saree,Debit Card
+B-26091,29,28-09-2022,1494,10,4,Clothing,Hankerchief,UPI
+B-25604,65,29-09-2022,1495,17,2,Clothing,T-shirt,UPI
+B-25754,72,30-09-2022,1496,-46,7,Clothing,Kurti,Debit Card
+B-25724,168,03-10-2022,1497,-51,2,Furniture,Bookcases,COD
+B-25757,165,04-10-2022,1498,30,3,Clothing,Stole,COD
+B-25767,74,05-10-2022,1499,-59,2,Electronics,Accessories,Debit Card
+B-25886,89,06-10-2022,1500,17,2,Clothing,Stole,UPI
+B-25621,228,07-10-2022,1501,63,3,Electronics,Electronic Games,Credit Card
+B-25967,119,10-10-2022,1502,-24,4,Furniture,Furnishings,COD
+B-25691,75,11-10-2022,1503,-25,3,Clothing,Stole,UPI
+B-25953,67,12-10-2022,1504,20,4,Clothing,T-shirt,UPI
+B-25651,7,13-10-2022,1505,0,1,Clothing,Leggings,COD
+B-25828,222,14-10-2022,1506,35,5,Clothing,Saree,Credit Card
+B-25628,219,17-10-2022,1507,-9,4,Clothing,Saree,Credit Card
+B-25703,42,18-10-2022,1508,-23,2,Furniture,Furnishings,UPI
+B-25929,216,19-10-2022,1509,-135,3,Furniture,Chairs,Credit Card
+B-25748,47,20-10-2022,1510,-21,2,Electronics,Electronic Games,COD
+B-25610,68,21-10-2022,1511,-55,5,Electronics,Accessories,UPI
+B-25903,74,24-10-2022,1512,33,2,Clothing,Shirt,Debit Card
+B-25878,165,25-10-2022,1513,46,3,Furniture,Furnishings,COD
+B-26056,101,26-10-2022,1514,11,2,Clothing,Hankerchief,UPI
+B-26004,162,27-10-2022,1515,73,2,Electronics,Electronic Games,COD
+B-25699,20,28-10-2022,1516,-22,1,Furniture,Furnishings,UPI
+B-26053,162,31-10-2022,1517,55,3,Clothing,Stole,COD
+B-25654,229,01-11-2022,1518,-23,2,Clothing,Saree,UPI
+B-25954,27,02-11-2022,1519,0,2,Clothing,Leggings,COD
+B-25910,685,03-11-2022,1520,7,7,Clothing,Trousers,UPI
+B-26064,75,04-11-2022,1521,2,5,Clothing,Leggings,Debit Card
+B-25983,161,07-11-2022,1522,-229,8,Furniture,Furnishings,COD
+B-26002,71,08-11-2022,1523,19,3,Clothing,T-shirt,COD
+B-25650,211,09-11-2022,1524,-105,2,Clothing,Saree,Credit Card
+B-26043,79,10-11-2022,1525,5,6,Clothing,Hankerchief,Debit Card
+B-25657,32,11-11-2022,1526,-22,5,Clothing,Saree,UPI
+B-25838,161,14-11-2022,1527,40,3,Clothing,Stole,COD
+B-25651,159,15-11-2022,1528,4,1,Clothing,Saree,COD
+B-25808,210,16-11-2022,1529,-50,4,Clothing,Hankerchief,Credit Card
+B-25973,79,17-11-2022,1530,39,2,Clothing,Shirt,Debit Card
+B-25698,207,18-11-2022,1531,153,3,Clothing,Saree,Credit Card
+B-25818,36,21-11-2022,1532,0,4,Clothing,Kurti,COD
+B-26061,206,22-11-2022,1533,12,1,Electronics,Printers,Credit Card
+B-25878,46,23-11-2022,1534,0,4,Clothing,Leggings,COD
+B-26054,156,24-11-2022,1535,23,3,Clothing,Stole,COD
+B-25809,154,25-11-2022,1536,54,3,Clothing,Hankerchief,COD
+B-26042,36,28-11-2022,1537,15,3,Clothing,Stole,UPI
+B-26008,206,29-11-2022,1538,51,4,Clothing,Hankerchief,Credit Card
+B-25927,200,30-11-2022,1539,7,4,Electronics,Electronic Games,Credit Card
+B-26008,199,01-12-2022,1540,-1,1,Clothing,Saree,Credit Card
+B-25753,154,02-12-2022,1541,22,7,Clothing,T-shirt,COD
+B-25948,152,05-12-2022,1542,23,3,Furniture,Furnishings,COD
+B-26094,152,06-12-2022,1543,50,6,Clothing,Stole,COD
+B-25654,122,07-12-2022,1544,-21,3,Furniture,Furnishings,UPI
+B-25854,149,08-12-2022,1545,48,6,Clothing,Stole,COD
+B-25623,149,09-12-2022,1546,-87,4,Clothing,Saree,COD
+B-25985,197,12-12-2022,1547,20,4,Clothing,Kurti,Credit Card
+B-25723,76,13-12-2022,1548,-54,3,Electronics,Electronic Games,COD
+B-25751,221,14-12-2022,1549,-15,2,Electronics,Electronic Games,COD
+B-26050,79,15-12-2022,1550,32,3,Clothing,Saree,Debit Card
+B-25800,45,16-12-2022,1551,12,7,Clothing,Hankerchief,UPI
+B-25673,149,19-12-2022,1552,-1,1,Clothing,Saree,COD
+B-26002,80,20-12-2022,1553,22,3,Clothing,Stole,Debit Card
+B-26009,195,21-12-2022,1554,12,9,Clothing,Shirt,Credit Card
+B-25754,19,22-12-2022,1555,0,3,Clothing,Skirt,UPI
+B-25953,81,23-12-2022,1556,41,3,Clothing,Stole,Debit Card
+B-26039,83,26-12-2022,1557,34,5,Clothing,Shirt,Debit Card
+B-26001,149,27-12-2022,1558,17,4,Furniture,Furnishings,COD
+B-25620,193,28-12-2022,1559,46,1,Electronics,Printers,Credit Card
+B-26051,85,29-12-2022,1560,24,10,Clothing,Hankerchief,Debit Card
+B-25673,44,30-12-2022,1561,-17,5,Clothing,Saree,UPI
+B-25721,149,02-01-2023,1562,-40,2,Electronics,Phones,COD
+B-25764,26,03-01-2023,1563,0,2,Clothing,Kurti,COD
+B-25645,86,04-01-2023,1564,0,4,Clothing,T-shirt,Debit Card
+B-26066,86,05-01-2023,1565,22,2,Clothing,Saree,Debit Card
+B-26003,79,06-01-2023,1566,16,3,Clothing,T-shirt,COD
+B-25712,193,09-01-2023,1567,-275,3,Electronics,Phones,Credit Card
+B-25796,148,10-01-2023,1568,0,3,Clothing,Saree,COD
+B-25738,70,11-01-2023,1569,-14,2,Furniture,Furnishings,UPI
+B-25771,148,12-01-2023,1570,59,3,Clothing,Hankerchief,COD
+B-25950,190,13-01-2023,1571,19,9,Furniture,Furnishings,Credit Card
+B-26038,52,16-01-2023,1572,14,2,Clothing,Stole,COD
+B-26004,147,17-01-2023,1573,44,3,Clothing,Saree,COD
+B-25896,190,18-01-2023,1574,68,8,Clothing,T-shirt,Credit Card
+B-25601,80,19-01-2023,1575,-56,4,Electronics,Electronic Games,UPI
+B-25952,147,20-01-2023,1576,48,3,Clothing,Saree,COD
+B-25873,66,23-01-2023,1577,12,3,Clothing,Stole,COD
+B-25844,86,24-01-2023,1578,8,2,Clothing,Saree,Debit Card
+B-26054,88,25-01-2023,1579,19,2,Clothing,Shirt,Debit Card
+B-25953,188,26-01-2023,1580,-193,2,Electronics,Electronic Games,Credit Card
+B-25951,89,27-01-2023,1581,29,2,Clothing,Stole,UPI
+B-26065,146,30-01-2023,1582,19,5,Clothing,Stole,COD
+B-26033,143,31-01-2023,1583,32,1,Furniture,Bookcases,COD
+B-25781,25,01-02-2023,1584,-1,4,Clothing,Kurti,COD
+B-26043,30,02-02-2023,1585,12,3,Clothing,Skirt,UPI
+B-25787,140,03-02-2023,1586,-58,4,Furniture,Furnishings,COD
+B-25664,83,06-02-2023,1587,-48,1,Furniture,Bookcases,UPI
+B-25825,140,07-02-2023,1588,6,5,Clothing,Saree,COD
+B-25818,28,08-02-2023,1589,14,4,Clothing,Hankerchief,COD
+B-25765,139,09-02-2023,1590,14,3,Clothing,Stole,COD
+B-25853,30,10-02-2023,1591,14,3,Clothing,Hankerchief,UPI
+B-26030,89,13-02-2023,1592,36,3,Clothing,Shirt,UPI
+B-25730,187,14-02-2023,1593,30,4,Electronics,Accessories,Credit Card
+B-26054,139,15-02-2023,1594,21,3,Electronics,Accessories,COD
+B-25773,437,16-02-2023,1595,-14,2,Clothing,Saree,UPI
+B-25717,138,17-02-2023,1596,-3,5,Clothing,Saree,COD
+B-26010,85,20-02-2023,1597,13,2,Clothing,Shirt,UPI
+B-25893,83,21-02-2023,1598,12,3,Clothing,Stole,UPI
+B-26076,91,22-02-2023,1599,22,2,Clothing,Stole,UPI
+B-25803,137,23-02-2023,1600,5,5,Clothing,Shirt,COD
+B-25709,33,24-02-2023,1601,-12,7,Clothing,Saree,UPI
+B-25755,134,27-02-2023,1602,-34,2,Furniture,Chairs,COD
+B-25684,134,28-02-2023,1603,42,2,Furniture,Chairs,COD
+B-25739,133,01-03-2023,1604,-56,2,Furniture,Chairs,COD
+B-26081,93,02-03-2023,1605,-84,3,Clothing,Saree,UPI
+B-25662,86,03-03-2023,1606,-21,1,Electronics,Electronic Games,UPI
+B-25845,132,06-03-2023,1607,54,5,Clothing,Stole,COD
+B-26085,132,07-03-2023,1608,-10,3,Clothing,Saree,COD
+B-25745,132,08-03-2023,1609,-79,5,Furniture,Furnishings,COD
+B-25999,93,09-03-2023,1610,-65,4,Clothing,Stole,UPI
+B-26082,95,10-03-2023,1611,5,2,Clothing,Stole,UPI
+B-26097,97,13-03-2023,1612,12,2,Clothing,Hankerchief,UPI
+B-25731,131,14-03-2023,1613,-154,8,Furniture,Furnishings,COD
+B-25625,97,15-03-2023,1614,29,2,Clothing,Hankerchief,UPI
+B-25853,128,16-03-2023,1615,4,3,Clothing,Saree,COD
+B-25703,186,17-03-2023,1616,241,9,Clothing,Shirt,Credit Card
+B-26003,128,20-03-2023,1617,47,4,Clothing,Hankerchief,COD
+B-25803,185,21-03-2023,1618,48,4,Clothing,Stole,Credit Card
+B-25719,29,22-03-2023,1619,10,2,Clothing,Stole,COD
+B-25883,127,23-03-2023,1620,29,3,Furniture,Furnishings,COD
+B-25891,97,24-03-2023,1621,36,7,Clothing,Hankerchief,UPI
+B-25821,125,27-03-2023,1622,0,3,Electronics,Accessories,COD
+B-25646,299,28-03-2023,1623,-8,2,Clothing,Saree,COD
+B-25874,124,29-03-2023,1624,54,5,Clothing,T-shirt,COD
+B-25717,90,30-03-2023,1625,17,3,Clothing,Shirt,COD
+B-26073,122,31-03-2023,1626,11,4,Clothing,Hankerchief,COD
+B-25800,122,03-04-2023,1627,-66,9,Electronics,Accessories,COD
+B-25991,90,04-04-2023,1628,30,2,Furniture,Chairs,UPI
+B-25638,182,05-04-2023,1629,-11,3,Furniture,Bookcases,Credit Card
+B-26021,122,06-04-2023,1630,59,7,Furniture,Furnishings,COD
+B-25882,121,07-04-2023,1631,19,4,Clothing,Stole,COD
+B-26053,120,10-04-2023,1632,1,1,Furniture,Chairs,COD
+B-25951,120,11-04-2023,1633,23,5,Clothing,Stole,COD
+B-25757,34,12-04-2023,1634,-11,5,Clothing,T-shirt,COD
+B-25777,117,13-04-2023,1635,17,6,Clothing,Kurti,COD
+B-26040,38,14-04-2023,1636,9,2,Clothing,Stole,COD
+B-25696,117,17-04-2023,1637,-6,3,Electronics,Phones,COD
+B-25977,180,18-04-2023,1638,54,4,Clothing,T-shirt,Credit Card
+B-25743,99,19-04-2023,1639,-5,1,Clothing,Saree,UPI
+B-25651,172,20-04-2023,1640,-103,3,Furniture,Chairs,EMI
+B-25603,116,21-04-2023,1641,16,4,Clothing,Stole,COD
+B-25696,116,24-04-2023,1642,-4,1,Clothing,Saree,COD
+B-26037,171,25-04-2023,1643,68,7,Clothing,Stole,EMI
+B-26098,46,26-04-2023,1644,14,5,Clothing,Skirt,COD
+B-25697,115,27-04-2023,1645,-39,3,Clothing,Trousers,COD
+B-25920,100,28-04-2023,1646,7,2,Clothing,T-shirt,UPI
+B-25993,44,01-05-2023,1647,8,2,Clothing,Stole,COD
+B-26089,139,02-05-2023,1648,14,3,Clothing,Kurti,COD
+B-25960,171,03-05-2023,1649,-140,2,Furniture,Bookcases,EMI
+B-25917,100,04-05-2023,1650,12,2,Clothing,T-shirt,UPI
+B-25825,115,05-05-2023,1651,25,6,Clothing,Stole,COD
+B-25696,168,08-05-2023,1652,-9,3,Clothing,Saree,COD
+B-25972,115,09-05-2023,1653,47,2,Electronics,Accessories,COD
+B-25602,168,10-05-2023,1654,-111,2,Electronics,Phones,EMI
+B-25736,31,11-05-2023,1655,-7,5,Clothing,Skirt,UPI
+B-26003,114,12-05-2023,1656,41,6,Furniture,Furnishings,COD
+B-25970,111,15-05-2023,1657,9,4,Clothing,Stole,COD
+B-25742,11,16-05-2023,1658,-8,2,Clothing,Skirt,UPI
+B-25770,110,17-05-2023,1659,35,1,Furniture,Furnishings,COD
+B-26098,59,18-05-2023,1660,15,2,Clothing,T-shirt,UPI
+B-26050,166,19-05-2023,1661,27,2,Electronics,Accessories,EMI
+B-25778,109,22-05-2023,1662,-6,6,Clothing,Saree,COD
+B-25652,34,23-05-2023,1663,-6,4,Clothing,Leggings,COD
+B-25999,109,24-05-2023,1664,40,1,Furniture,Furnishings,COD
+B-25909,108,25-05-2023,1665,22,3,Electronics,Accessories,COD
+B-25823,103,26-05-2023,1666,50,2,Furniture,Furnishings,UPI
+B-25701,10,29-05-2023,1667,-8,2,Clothing,Skirt,COD
+B-25855,90,30-05-2023,1668,17,3,Clothing,Hankerchief,COD
+B-25654,105,31-05-2023,1669,46,2,Clothing,Stole,UPI
+B-25623,105,01-06-2023,1670,20,2,Clothing,Stole,Debit Card
+B-25641,22,02-06-2023,1671,-6,1,Furniture,Furnishings,COD
+B-25852,105,05-06-2023,1672,-33,5,Clothing,Kurti,COD
+B-25958,105,06-06-2023,1673,25,2,Clothing,Hankerchief,EMI
+B-25802,25,07-06-2023,1674,-7,5,Clothing,Saree,UPI
+B-25823,104,08-06-2023,1675,2,2,Furniture,Furnishings,COD
+B-25834,16,09-06-2023,1676,5,1,Clothing,Stole,UPI
+B-25678,64,12-06-2023,1677,-7,3,Clothing,Saree,COD
+B-25774,38,13-06-2023,1678,-6,2,Furniture,Furnishings,UPI
+B-25904,83,14-06-2023,1679,12,2,Furniture,Chairs,COD
+B-25896,103,15-06-2023,1680,36,2,Clothing,Hankerchief,COD
+B-25796,37,16-06-2023,1681,-6,1,Clothing,Saree,UPI
+B-25934,105,19-06-2023,1682,33,6,Clothing,Saree,EMI
+B-25750,78,20-06-2023,1683,-6,2,Furniture,Furnishings,UPI
+B-25761,102,21-06-2023,1684,-90,1,Clothing,Saree,COD
+B-25912,102,22-06-2023,1685,11,6,Clothing,T-shirt,COD
+B-25751,10,23-06-2023,1686,-8,1,Clothing,Kurti,UPI
+B-25656,101,26-06-2023,1687,18,9,Clothing,Skirt,COD
+B-25647,42,27-06-2023,1688,-6,4,Clothing,Saree,UPI
+B-25861,56,28-06-2023,1689,18,2,Clothing,Hankerchief,UPI
+B-25802,95,29-06-2023,1690,5,2,Clothing,Stole,COD
+B-25901,159,30-06-2023,1691,2,3,Furniture,Furnishings,EMI
+B-25623,158,03-07-2023,1692,69,3,Clothing,Stole,EMI
+B-25751,106,04-07-2023,1693,0,2,Electronics,Phones,EMI
+B-26052,101,05-07-2023,1694,16,4,Clothing,T-shirt,COD
+B-25886,107,06-07-2023,1695,37,3,Clothing,Shirt,COD
+B-25804,156,07-07-2023,1696,36,5,Clothing,T-shirt,EMI
+B-25734,108,10-07-2023,1697,-19,3,Electronics,Electronic Games,UPI
+B-25610,107,11-07-2023,1698,-54,4,Clothing,Stole,EMI
+B-25711,100,12-07-2023,1699,-58,4,Clothing,Hankerchief,COD
+B-25985,108,13-07-2023,1700,26,4,Clothing,Shirt,UPI
+B-25864,100,14-07-2023,1701,6,4,Clothing,Stole,COD
+B-25648,100,17-07-2023,1702,-23,1,Electronics,Phones,COD
+B-26086,43,18-07-2023,1703,17,2,Clothing,T-shirt,UPI
+B-25835,155,19-07-2023,1704,26,3,Clothing,Stole,EMI
+B-25949,151,20-07-2023,1705,9,3,Clothing,Hankerchief,EMI
+B-25930,151,21-07-2023,1706,29,5,Clothing,Hankerchief,EMI
+B-25655,110,24-07-2023,1707,-68,4,Clothing,Saree,EMI
+B-25757,98,25-07-2023,1708,9,2,Furniture,Furnishings,COD
+B-25655,97,26-07-2023,1709,-62,2,Clothing,Trousers,COD
+B-26033,111,27-07-2023,1710,35,5,Clothing,Shirt,COD
+B-26083,45,28-07-2023,1711,17,1,Electronics,Accessories,COD
+B-25805,112,31-07-2023,1712,15,2,Furniture,Chairs,COD
+B-25955,110,01-08-2023,1713,20,5,Clothing,Stole,Debit Card
+B-25762,98,02-08-2023,1714,-5,2,Clothing,Saree,UPI
+B-25919,110,03-08-2023,1715,12,7,Clothing,Stole,Debit Card
+B-25853,95,04-08-2023,1716,11,4,Furniture,Furnishings,COD
+B-25925,1228,07-08-2023,1717,14,3,Furniture,Chairs,UPI
+B-26023,29,08-08-2023,1718,0,3,Furniture,Furnishings,COD
+B-26055,94,09-08-2023,1719,27,2,Clothing,T-shirt,COD
+B-25653,115,10-08-2023,1720,25,1,Electronics,Accessories,COD
+B-25893,149,11-08-2023,1721,15,3,Clothing,Saree,EMI
+B-26052,148,14-08-2023,1722,23,4,Clothing,Kurti,EMI
+B-25830,93,15-08-2023,1723,15,2,Electronics,Accessories,COD
+B-26040,113,16-08-2023,1724,24,4,Clothing,Hankerchief,Debit Card
+B-25981,48,17-08-2023,1725,2,3,Clothing,Stole,COD
+B-25954,148,18-08-2023,1726,9,1,Electronics,Electronic Games,UPI
+B-25889,114,21-08-2023,1727,11,4,Clothing,T-shirt,Debit Card
+B-25810,92,22-08-2023,1728,42,2,Clothing,Stole,COD
+B-25637,117,23-08-2023,1729,14,3,Clothing,Shirt,UPI
+B-25801,21,24-08-2023,1730,-10,4,Clothing,Leggings,COD
+B-25783,33,25-08-2023,1731,-10,6,Clothing,Leggings,UPI
+B-25697,114,28-08-2023,1732,8,3,Electronics,Accessories,Debit Card
+B-26028,115,29-08-2023,1733,0,1,Electronics,Accessories,Debit Card
+B-25851,90,30-08-2023,1734,29,5,Clothing,T-shirt,COD
+B-25938,61,31-08-2023,1735,1,2,Furniture,Furnishings,COD
+B-25820,119,01-09-2023,1736,1,1,Furniture,Chairs,COD
+B-25850,117,04-09-2023,1737,36,2,Clothing,Trousers,Debit Card
+B-25924,148,05-09-2023,1738,54,2,Furniture,Chairs,UPI
+B-25609,249,06-09-2023,1739,-5,4,Clothing,Saree,COD
+B-25898,147,07-09-2023,1740,73,3,Clothing,Stole,UPI
+B-25814,118,08-09-2023,1741,35,7,Clothing,T-shirt,EMI
+B-26087,119,11-09-2023,1742,56,7,Clothing,Saree,EMI
+B-25901,90,12-09-2023,1743,27,2,Clothing,T-shirt,COD
+B-26025,32,13-09-2023,1744,1,2,Clothing,Stole,COD
+B-25631,89,14-09-2023,1745,-89,2,Furniture,Furnishings,COD
+B-25954,146,15-09-2023,1746,66,1,Electronics,Phones,UPI
+B-25956,89,18-09-2023,1747,-37,4,Clothing,Shirt,COD
+B-26096,88,19-09-2023,1748,11,3,Electronics,Accessories,COD
+B-25862,121,20-09-2023,1749,41,4,Clothing,Stole,EMI
+B-26054,88,21-09-2023,1750,20,2,Clothing,Saree,COD
+B-25698,87,22-09-2023,1751,-83,5,Clothing,Kurti,COD
+B-25606,87,25-09-2023,1752,4,2,Clothing,Shirt,COD
+B-25928,122,26-09-2023,1753,15,3,Electronics,Accessories,EMI
+B-26005,87,27-09-2023,1754,10,3,Clothing,Stole,COD
+B-25963,53,28-09-2023,1755,8,3,Furniture,Furnishings,UPI
+B-25952,87,29-09-2023,1756,-32,9,Clothing,Skirt,COD
+B-25683,86,02-10-2023,1757,-55,6,Clothing,Saree,COD
+B-25914,125,03-10-2023,1758,22,3,Clothing,Stole,EMI
+B-25828,128,04-10-2023,1759,-3,3,Clothing,Saree,Debit Card
+B-25743,143,05-10-2023,1760,-124,5,Clothing,Saree,UPI
+B-26085,86,06-10-2023,1761,22,2,Clothing,Saree,COD
+B-25869,86,09-10-2023,1762,9,3,Clothing,Saree,COD
+B-25773,85,10-10-2023,1763,-9,4,Clothing,Saree,COD
+B-25700,129,11-10-2023,1764,-75,5,Clothing,Shirt,Debit Card
+B-25921,84,12-10-2023,1765,-42,2,Electronics,Accessories,COD
+B-25730,83,13-10-2023,1766,-81,3,Furniture,Chairs,COD
+B-26083,143,16-10-2023,1767,6,2,Electronics,Accessories,UPI
+B-25849,336,17-10-2023,1768,123,3,Electronics,Phones,UPI
+B-25909,323,18-10-2023,1769,122,5,Electronics,Phones,UPI
+B-26038,130,19-10-2023,1770,61,3,Clothing,Shirt,Debit Card
+B-25999,152,20-10-2023,1771,-3,5,Clothing,Saree,COD
+B-25928,25,23-10-2023,1772,10,1,Furniture,Furnishings,UPI
+B-25878,140,24-10-2023,1773,15,5,Clothing,Stole,UPI
+B-25843,45,25-10-2023,1774,0,2,Clothing,Stole,UPI
+B-25959,132,26-10-2023,1775,49,3,Clothing,Shirt,COD
+B-25630,133,27-10-2023,1776,12,5,Clothing,Stole,Debit Card
+B-25858,82,30-10-2023,1777,13,2,Clothing,Shirt,COD
+B-26096,140,31-10-2023,1778,56,4,Clothing,Shirt,UPI
+B-25838,81,01-11-2023,1779,19,7,Clothing,Hankerchief,COD
+B-25943,137,02-11-2023,1780,38,5,Clothing,Hankerchief,Debit Card
+B-25780,137,03-11-2023,1781,-41,3,Electronics,Phones,Debit Card
+B-25949,140,06-11-2023,1782,57,2,Clothing,Trousers,Debit Card
+B-25892,139,07-11-2023,1783,30,3,Clothing,Shirt,UPI
+B-26054,138,08-11-2023,1784,11,5,Clothing,Stole,UPI
+B-25988,79,09-11-2023,1785,-124,9,Clothing,Skirt,COD
+B-25939,136,10-11-2023,1786,41,3,Electronics,Accessories,UPI
+B-26083,145,13-11-2023,1787,16,3,Clothing,T-shirt,Debit Card
+B-26078,44,14-11-2023,1788,20,2,Clothing,T-shirt,UPI
+B-25902,79,15-11-2023,1789,6,7,Clothing,Saree,COD
+B-25676,79,16-11-2023,1790,36,4,Clothing,Shirt,COD
+B-26016,134,17-11-2023,1791,-13,3,Electronics,Electronic Games,UPI
+B-25950,133,20-11-2023,1792,5,5,Clothing,Stole,UPI
+B-26056,47,21-11-2023,1793,20,7,Clothing,Hankerchief,UPI
+B-25645,133,22-11-2023,1794,-42,1,Electronics,Printers,UPI
+B-25906,78,23-11-2023,1795,27,3,Clothing,Stole,COD
+B-26017,78,24-11-2023,1796,7,1,Furniture,Chairs,COD
+B-25644,76,27-11-2023,1797,-92,8,Furniture,Furnishings,COD
+B-25679,76,28-11-2023,1798,-50,1,Clothing,Saree,COD
+B-25854,76,29-11-2023,1799,19,3,Clothing,Hankerchief,COD
+B-25670,74,30-11-2023,1800,29,3,Clothing,Stole,COD
+B-25792,74,01-12-2023,1801,-25,3,Clothing,Stole,COD
+B-25808,146,04-12-2023,1802,-63,3,Electronics,Electronic Games,Debit Card
+B-25750,73,05-12-2023,1803,-31,1,Furniture,Bookcases,COD
+B-26051,80,06-12-2023,1804,22,3,Clothing,Stole,UPI
+B-26076,133,07-12-2023,1805,46,5,Clothing,Shirt,EMI
+B-25946,146,08-12-2023,1806,7,2,Electronics,Phones,Debit Card
+B-25648,130,11-12-2023,1807,-41,4,Clothing,Saree,EMI
+B-25992,141,12-12-2023,1808,41,3,Clothing,Shirt,UPI
+B-25848,147,13-12-2023,1809,21,3,Furniture,Furnishings,Debit Card
+B-25697,73,14-12-2023,1810,-7,1,Electronics,Phones,COD
+B-25659,148,15-12-2023,1811,72,7,Clothing,T-shirt,Debit Card
+B-25716,58,18-12-2023,1812,0,4,Clothing,Saree,UPI
+B-25652,21,19-12-2023,1813,-13,3,Clothing,Leggings,UPI
+B-26093,148,20-12-2023,1814,25,3,Clothing,Saree,Debit Card
+B-25725,144,21-12-2023,1815,-7,4,Electronics,Electronic Games,COD
+B-25661,145,22-12-2023,1816,-104,5,Furniture,Chairs,UPI
+B-25693,72,25-12-2023,1817,-49,1,Electronics,Phones,COD
+B-25910,125,26-12-2023,1818,15,5,Clothing,Shirt,EMI
+B-25943,149,27-12-2023,1819,15,3,Clothing,Saree,Debit Card
+B-26100,72,28-12-2023,1820,16,2,Clothing,Shirt,COD
+B-25830,71,29-12-2023,1821,0,8,Clothing,Skirt,COD
+B-25932,71,01-01-2024,1822,-14,4,Furniture,Furnishings,COD
+B-25929,154,02-01-2024,1823,-85,3,Furniture,Chairs,EMI
+B-25708,191,03-01-2024,1824,13,8,Furniture,Furnishings,COD
+B-25921,170,04-01-2024,1825,19,5,Clothing,T-shirt,UPI
+B-25755,47,05-01-2024,1826,-3,2,Clothing,Stole,UPI
+B-25640,122,08-01-2024,1827,-47,4,Clothing,Saree,EMI
+B-25838,70,09-01-2024,1828,26,5,Clothing,Hankerchief,COD
+B-26025,155,10-01-2024,1829,5,3,Clothing,Stole,EMI
+B-25789,67,11-01-2024,1830,-86,9,Furniture,Furnishings,COD
+B-25697,67,12-01-2024,1831,-42,3,Clothing,Stole,COD
+B-25797,148,15-01-2024,1832,-101,2,Furniture,Bookcases,UPI
+B-26064,122,16-01-2024,1833,38,6,Clothing,T-shirt,Credit Card
+B-25732,16,17-01-2024,1834,-5,2,Clothing,Stole,UPI
+B-25654,121,18-01-2024,1835,-17,3,Furniture,Furnishings,Credit Card
+B-25750,42,19-01-2024,1836,-15,12,Clothing,Skirt,UPI
+B-25751,65,22-01-2024,1837,-4,6,Clothing,Hankerchief,COD
+B-25889,119,23-01-2024,1838,-43,7,Clothing,Kurti,Credit Card
+B-25683,155,24-01-2024,1839,56,3,Furniture,Furnishings,EMI
+B-25602,119,25-01-2024,1840,-5,8,Clothing,Saree,Credit Card
+B-25871,118,26-01-2024,1841,25,4,Clothing,Hankerchief,Credit Card
+B-25953,116,29-01-2024,1842,22,1,Electronics,Accessories,Credit Card
+B-25950,158,30-01-2024,1843,-29,10,Clothing,Hankerchief,EMI
+B-26091,158,31-01-2024,1844,69,3,Clothing,Stole,EMI
+B-25753,65,01-02-2024,1845,-52,3,Electronics,Accessories,COD
+B-25611,160,02-02-2024,1846,-59,2,Clothing,Saree,EMI
+B-25935,162,05-02-2024,1847,20,3,Furniture,Chairs,EMI
+B-25886,63,06-02-2024,1848,1,4,Clothing,T-shirt,COD
+B-25833,64,07-02-2024,1849,27,5,Clothing,Hankerchief,UPI
+B-25665,166,08-02-2024,1850,-113,4,Electronics,Accessories,EMI
+B-25694,167,09-02-2024,1851,43,7,Clothing,T-shirt,EMI
+B-25668,123,12-02-2024,1852,17,3,Furniture,Furnishings,COD
+B-25945,63,13-02-2024,1853,14,2,Clothing,Shirt,COD
+B-25954,891,14-02-2024,1854,0,5,Clothing,Saree,COD
+B-25818,75,15-02-2024,1855,28,9,Clothing,Hankerchief,UPI
+B-25861,62,16-02-2024,1856,6,5,Clothing,Hankerchief,COD
+B-25721,29,19-02-2024,1857,-18,7,Clothing,Skirt,UPI
+B-26024,168,20-02-2024,1858,18,6,Clothing,Stole,Debit Card
+B-26056,70,21-02-2024,1859,24,3,Clothing,Stole,UPI
+B-26050,169,22-02-2024,1860,55,4,Clothing,Saree,Debit Card
+B-25708,32,23-02-2024,1861,-8,2,Clothing,Stole,COD
+B-25651,44,26-02-2024,1862,-8,3,Clothing,Stole,UPI
+B-25616,116,27-02-2024,1863,-56,5,Clothing,Stole,Credit Card
+B-25827,156,28-02-2024,1864,21,3,Furniture,Chairs,COD
+B-25996,62,29-02-2024,1865,6,6,Clothing,Skirt,COD
+B-25830,54,01-03-2024,1866,1,2,Clothing,Saree,UPI
+B-25951,111,04-03-2024,1867,11,9,Clothing,Hankerchief,Credit Card
+B-25713,158,05-03-2024,1868,-63,4,Furniture,Chairs,UPI
+B-25678,7,06-03-2024,1869,-3,2,Clothing,Skirt,UPI
+B-25901,61,07-03-2024,1870,28,2,Clothing,Hankerchief,UPI
+B-25798,61,08-03-2024,1871,-50,4,Clothing,Hankerchief,COD
+B-25902,154,11-03-2024,1872,26,4,Electronics,Accessories,COD
+B-25851,62,12-03-2024,1873,1,3,Clothing,Saree,COD
+B-25944,169,13-03-2024,1874,38,3,Clothing,Saree,Debit Card
+B-25939,61,14-03-2024,1875,18,2,Electronics,Accessories,COD
+B-25656,61,15-03-2024,1876,-23,2,Clothing,Saree,COD
+B-25695,171,18-03-2024,1877,14,9,Clothing,Shirt,Debit Card
+B-25781,60,19-03-2024,1878,-49,8,Clothing,Hankerchief,COD
+B-25783,25,20-03-2024,1879,-11,1,Clothing,Stole,UPI
+B-25867,163,21-03-2024,1880,26,4,Clothing,Shirt,COD
+B-25993,173,22-03-2024,1881,86,1,Electronics,Printers,Debit Card
+B-25755,257,25-03-2024,1882,-3,2,Furniture,Bookcases,UPI
+B-25880,108,26-03-2024,1883,37,2,Clothing,Stole,Credit Card
+B-25941,177,27-03-2024,1884,41,4,Clothing,Shirt,Debit Card
+B-25757,106,28-03-2024,1885,15,7,Clothing,Hankerchief,Credit Card
+B-25754,41,29-03-2024,1886,-14,5,Clothing,Leggings,UPI
+B-25653,168,01-04-2024,1887,-10,3,Electronics,Accessories,UPI
+B-25821,60,02-04-2024,1888,21,4,Clothing,Stole,COD
+B-25706,31,03-04-2024,1889,-11,4,Clothing,Stole,COD
+B-26064,179,04-04-2024,1890,0,2,Clothing,Saree,Debit Card
+B-25803,106,05-04-2024,1891,12,3,Clothing,Trousers,Credit Card
+B-26076,60,08-04-2024,1892,13,2,Clothing,T-shirt,COD
+B-25603,180,09-04-2024,1893,5,3,Clothing,Trousers,Debit Card
+B-25903,60,10-04-2024,1894,-10,2,Furniture,Furnishings,COD
+B-25938,59,11-04-2024,1895,25,3,Clothing,Stole,COD
+B-25868,170,12-04-2024,1896,73,2,Electronics,Accessories,UPI
+B-25956,59,15-04-2024,1897,10,2,Clothing,Hankerchief,COD
+B-25652,24,16-04-2024,1898,-21,7,Clothing,Skirt,COD
+B-25883,105,17-04-2024,1899,-26,8,Clothing,Leggings,Credit Card
+B-26096,103,18-04-2024,1900,46,2,Clothing,Saree,Credit Card
+B-25969,171,19-04-2024,1901,17,6,Clothing,T-shirt,UPI
+B-25951,102,22-04-2024,1902,13,2,Clothing,Stole,Credit Card
+B-25855,98,23-04-2024,1903,12,2,Clothing,Hankerchief,Credit Card
+B-26091,59,24-04-2024,1904,10,4,Clothing,Leggings,COD
+B-25954,189,25-04-2024,1905,60,4,Furniture,Furnishings,Debit Card
+B-25763,58,26-04-2024,1906,-52,3,Furniture,Chairs,COD
+B-25945,60,29-04-2024,1907,3,3,Clothing,Saree,UPI
+B-25740,58,30-04-2024,1908,-8,2,Clothing,Saree,COD
+B-25818,94,01-05-2024,1909,20,2,Furniture,Furnishings,UPI
+B-25603,193,02-05-2024,1910,-166,3,Clothing,Saree,EMI
+B-25964,199,03-05-2024,1911,0,4,Clothing,Stole,EMI
+B-25930,202,06-05-2024,1912,89,9,Clothing,T-shirt,EMI
+B-25930,58,07-05-2024,1913,17,2,Clothing,Hankerchief,COD
+B-25879,57,08-05-2024,1914,-28,2,Clothing,Kurti,COD
+B-25903,204,09-05-2024,1915,-94,4,Clothing,Hankerchief,EMI
+B-25614,98,10-05-2024,1916,-12,2,Electronics,Electronic Games,Credit Card
+B-25750,22,13-05-2024,1917,-12,3,Clothing,Stole,COD
+B-25852,97,14-05-2024,1918,17,2,Clothing,Stole,Credit Card
+B-26008,57,15-05-2024,1919,24,5,Clothing,Leggings,COD
+B-26092,97,16-05-2024,1920,14,2,Clothing,T-shirt,Credit Card
+B-25689,97,17-05-2024,1921,17,2,Clothing,Stole,Credit Card
+B-25730,96,20-05-2024,1922,22,5,Clothing,Stole,Credit Card
+B-25885,94,21-05-2024,1923,27,2,Clothing,Shirt,Credit Card
+B-25999,26,22-05-2024,1924,-17,1,Clothing,Stole,COD
+B-26011,93,23-05-2024,1925,44,2,Clothing,Stole,Credit Card
+B-25754,93,24-05-2024,1926,-65,4,Clothing,Stole,Credit Card
+B-26030,92,27-05-2024,1927,5,6,Clothing,Hankerchief,Credit Card
+B-25851,57,28-05-2024,1928,27,2,Clothing,T-shirt,COD
+B-25870,57,29-05-2024,1929,7,3,Furniture,Furnishings,COD
+B-26074,57,30-05-2024,1930,21,4,Clothing,Leggings,COD
+B-25861,128,31-05-2024,1931,4,3,Clothing,Saree,COD
+B-25797,89,03-06-2024,1932,-4,5,Clothing,Saree,Credit Card
+B-25993,221,04-06-2024,1933,26,7,Furniture,Furnishings,COD
+B-25799,205,05-06-2024,1934,-119,3,Clothing,Saree,Debit Card
+B-25721,191,06-06-2024,1935,51,5,Clothing,Shirt,UPI
+B-26056,206,07-06-2024,1936,18,4,Clothing,Hankerchief,Debit Card
+B-25743,56,10-06-2024,1937,0,4,Clothing,Hankerchief,COD
+B-25854,88,11-06-2024,1938,16,4,Clothing,Stole,Credit Card
+B-25748,224,12-06-2024,1939,58,3,Electronics,Phones,UPI
+B-25976,193,13-06-2024,1940,8,4,Clothing,T-shirt,UPI
+B-25953,87,14-06-2024,1941,36,5,Clothing,Stole,Credit Card
+B-25996,189,17-06-2024,1942,4,1,Clothing,Saree,UPI
+B-25717,55,18-06-2024,1943,-33,2,Furniture,Chairs,COD
+B-25865,85,19-06-2024,1944,-1,3,Clothing,Saree,Credit Card
+B-25959,252,20-06-2024,1945,56,2,Electronics,Phones,UPI
+B-25855,197,21-06-2024,1946,73,1,Furniture,Bookcases,COD
+B-25703,17,24-06-2024,1947,-3,2,Clothing,Stole,UPI
+B-26049,100,25-06-2024,1948,28,2,Clothing,Hankerchief,UPI
+B-25755,80,26-06-2024,1949,-19,5,Clothing,Stole,UPI
+B-26070,75,27-06-2024,1950,29,1,Clothing,Trousers,UPI
+B-25755,26,28-06-2024,1951,4,2,Clothing,Saree,UPI
+B-26047,55,01-07-2024,1952,12,5,Clothing,Skirt,COD
+B-25604,157,02-07-2024,1953,5,9,Clothing,Saree,UPI
+B-25651,200,03-07-2024,1954,-60,4,Furniture,Bookcases,UPI
+B-25983,230,04-07-2024,1955,5,2,Clothing,Saree,UPI
+B-26056,213,05-07-2024,1956,-145,3,Furniture,Bookcases,Debit Card
+B-25940,55,08-07-2024,1957,4,2,Clothing,Stole,COD
+B-25766,220,09-07-2024,1958,-19,2,Clothing,Saree,Debit Card
+B-25935,150,10-07-2024,1959,32,3,Clothing,Hankerchief,COD
+B-25970,203,11-07-2024,1960,84,2,Electronics,Printers,UPI
+B-26053,93,12-07-2024,1961,31,3,Electronics,Accessories,UPI
+B-25947,290,15-07-2024,1962,35,6,Clothing,Hankerchief,COD
+B-25856,48,16-07-2024,1963,6,1,Clothing,Saree,COD
+B-26030,221,17-07-2024,1964,35,4,Electronics,Accessories,Debit Card
+B-26069,55,18-07-2024,1965,18,2,Clothing,Kurti,COD
+B-25653,227,19-07-2024,1966,102,8,Electronics,Accessories,Debit Card
+B-25627,55,22-07-2024,1967,-39,4,Clothing,Stole,COD
+B-25947,207,23-07-2024,1968,33,2,Electronics,Accessories,UPI
+B-25801,64,24-07-2024,1969,6,4,Clothing,Saree,COD
+B-25964,89,25-07-2024,1970,6,5,Clothing,Saree,COD
+B-25950,54,26-07-2024,1971,27,2,Clothing,Stole,COD
+B-25878,84,29-07-2024,1972,41,3,Clothing,T-shirt,Credit Card
+B-25773,209,30-07-2024,1973,-21,2,Electronics,Electronic Games,UPI
+B-26081,79,31-07-2024,1974,33,4,Clothing,Stole,UPI
+B-26027,54,01-08-2024,1975,8,4,Clothing,T-shirt,COD
+B-25967,229,02-08-2024,1976,59,9,Clothing,Saree,Debit Card
+B-25901,158,05-08-2024,1977,38,3,Clothing,Hankerchief,UPI
+B-25951,248,06-08-2024,1978,105,2,Electronics,Phones,Debit Card
+B-25853,199,07-08-2024,1979,6,2,Clothing,Saree,UPI
+B-25923,253,08-08-2024,1980,-11,1,Clothing,Trousers,Debit Card
+B-25793,257,09-08-2024,1981,-252,4,Clothing,Saree,Debit Card
+B-26068,193,12-08-2024,1982,33,5,Electronics,Accessories,COD
+B-26080,109,13-08-2024,1983,35,6,Clothing,T-shirt,COD
+B-25843,214,14-08-2024,1984,30,3,Electronics,Accessories,COD
+B-26002,141,15-08-2024,1985,7,7,Clothing,Saree,COD
+B-25993,201,16-08-2024,1986,32,4,Furniture,Furnishings,UPI
+B-26070,54,19-08-2024,1987,12,4,Clothing,Shirt,COD
+B-25887,83,20-08-2024,1988,6,6,Clothing,Shirt,EMI
+B-25654,54,21-08-2024,1989,-3,3,Clothing,Saree,COD
+B-25898,53,22-08-2024,1990,5,3,Clothing,T-shirt,COD
+B-25664,258,23-08-2024,1991,-27,2,Electronics,Phones,Debit Card
+B-26012,199,26-08-2024,1992,8,2,Clothing,Saree,COD
+B-25979,82,27-08-2024,1993,-27,3,Clothing,Kurti,EMI
+B-26054,139,28-08-2024,1994,36,3,Clothing,Stole,COD
+B-25757,53,29-08-2024,1995,15,2,Clothing,Stole,COD
+B-25623,53,30-08-2024,1996,1,4,Clothing,Stole,COD
+B-25824,101,02-09-2024,1997,38,2,Furniture,Furnishings,COD
+B-25754,262,03-09-2024,1998,215,2,Electronics,Printers,Debit Card
+B-25693,82,04-09-2024,1999,-39,5,Clothing,T-shirt,EMI
+B-25638,154,05-09-2024,2000,39,3,Clothing,Hankerchief,COD
+B-25922,52,06-09-2024,2001,18,2,Clothing,Stole,COD
+B-25919,1599,09-09-2024,2002,37,6,Electronics,Electronic Games,UPI
+B-25989,338,10-09-2024,2003,41,7,Clothing,Hankerchief,UPI
+B-25999,51,11-09-2024,2004,-49,2,Electronics,Electronic Games,COD
+B-25661,224,12-09-2024,2005,-81,3,Furniture,Chairs,COD
+B-26099,207,13-09-2024,2006,37,4,Clothing,Hankerchief,COD
+B-25866,51,16-09-2024,2007,14,2,Clothing,Stole,COD
+B-26098,82,17-09-2024,2008,8,3,Electronics,Accessories,EMI
+B-26062,50,18-09-2024,2009,-17,2,Clothing,Stole,COD
+B-25761,263,19-09-2024,2010,-31,9,Electronics,Electronic Games,Debit Card
+B-25843,50,20-09-2024,2011,7,6,Clothing,Skirt,COD
+B-25683,245,23-09-2024,2012,-3,4,Electronics,Phones,UPI
+B-25959,82,24-09-2024,2013,24,6,Clothing,Hankerchief,EMI
+B-25787,229,25-09-2024,2014,-41,8,Electronics,Accessories,COD
+B-25951,50,26-09-2024,2015,14,1,Electronics,Electronic Games,COD
+B-26056,220,27-09-2024,2016,40,2,Electronics,Accessories,COD
+B-25643,263,30-09-2024,2017,-63,2,Electronics,Electronic Games,Debit Card
+B-26093,81,01-10-2024,2018,-41,5,Clothing,Leggings,EMI
+B-25775,50,02-10-2024,2019,-17,2,Clothing,Stole,COD
+B-26093,49,03-10-2024,2020,5,4,Clothing,Hankerchief,COD
+B-25851,237,04-10-2024,2021,47,9,Clothing,T-shirt,UPI
+B-25685,264,07-10-2024,2022,-30,3,Furniture,Furnishings,Debit Card
+B-25651,49,08-10-2024,2023,3,1,Clothing,Shirt,COD
+B-25793,63,09-10-2024,2024,-24,6,Clothing,Kurti,COD
+B-25708,81,10-10-2024,2025,-51,7,Clothing,Stole,EMI
+B-25847,264,11-10-2024,2026,71,10,Furniture,Furnishings,Debit Card
+B-25954,48,14-10-2024,2027,11,2,Clothing,Shirt,COD
+B-25997,48,15-10-2024,2028,15,1,Clothing,Hankerchief,COD
+B-25650,245,16-10-2024,2029,-78,2,Electronics,Printers,UPI
+B-25883,146,17-10-2024,2030,42,5,Clothing,Hankerchief,UPI
+B-25945,245,18-10-2024,2031,10,2,Furniture,Bookcases,COD
+B-25981,245,21-10-2024,2032,91,2,Furniture,Bookcases,UPI
+B-25862,80,22-10-2024,2033,3,3,Clothing,Stole,EMI
+B-25877,269,23-10-2024,2034,33,5,Furniture,Chairs,Debit Card
+B-26090,80,24-10-2024,2035,22,3,Clothing,Stole,EMI
+B-26050,284,25-10-2024,2036,44,6,Clothing,Hankerchief,COD
+B-26072,313,28-10-2024,2037,44,3,Electronics,Electronic Games,COD
+B-25916,80,29-10-2024,2038,-26,9,Clothing,Skirt,EMI
+B-25722,48,30-10-2024,2039,-8,8,Clothing,Stole,COD
+B-25746,87,31-10-2024,2040,16,2,Clothing,Saree,UPI
+B-25753,47,01-11-2024,2041,-114,5,Furniture,Furnishings,COD
+B-25956,140,04-11-2024,2042,28,2,Electronics,Phones,COD
+B-25996,47,05-11-2024,2043,1,2,Clothing,Stole,COD
+B-25896,79,06-11-2024,2044,-2,2,Furniture,Furnishings,EMI
+B-25796,78,07-11-2024,2045,-64,7,Clothing,Stole,EMI
+B-25798,47,08-11-2024,2046,-3,2,Clothing,Stole,COD
+B-26043,185,11-11-2024,2047,48,4,Clothing,Stole,UPI
+B-26028,77,12-11-2024,2048,36,2,Clothing,Shirt,EMI
+B-25812,259,13-11-2024,2049,47,5,Clothing,Hankerchief,UPI
+B-25605,75,14-11-2024,2050,0,7,Clothing,Saree,EMI
+B-25702,75,15-11-2024,2051,0,3,Clothing,Shirt,EMI
+B-25940,46,18-11-2024,2052,0,4,Clothing,Leggings,COD
+B-26087,46,19-11-2024,2053,13,3,Clothing,Hankerchief,COD
+B-25955,200,20-11-2024,2054,13,5,Electronics,Phones,COD
+B-25626,46,21-11-2024,2055,-14,1,Electronics,Phones,COD
+B-25811,126,22-11-2024,2056,52,4,Clothing,Hankerchief,UPI
+B-25856,74,25-11-2024,2057,29,3,Clothing,Stole,EMI
+B-25628,45,26-11-2024,2058,13,4,Clothing,Skirt,COD
+B-26016,74,27-11-2024,2059,9,3,Clothing,Shirt,UPI
+B-25999,129,28-11-2024,2060,11,2,Electronics,Phones,UPI
+B-26043,122,29-11-2024,2061,50,7,Clothing,Stole,UPI
+B-25743,74,02-12-2024,2062,-51,3,Clothing,Stole,UPI
+B-26014,278,03-12-2024,2063,39,5,Furniture,Chairs,Debit Card
+B-25876,282,04-12-2024,2064,14,4,Clothing,Trousers,Debit Card
+B-25785,45,05-12-2024,2065,0,2,Clothing,T-shirt,COD
+B-25810,45,06-12-2024,2066,6,3,Clothing,Shirt,COD
+B-25833,45,09-12-2024,2067,16,3,Clothing,Stole,COD
+B-25931,73,10-12-2024,2068,-36,3,Furniture,Chairs,UPI
+B-25852,45,11-12-2024,2069,12,4,Clothing,Hankerchief,COD
+B-25738,72,12-12-2024,2070,-6,3,Clothing,Saree,UPI
+B-25921,71,13-12-2024,2071,-44,5,Electronics,Accessories,UPI
+B-25685,45,16-12-2024,2072,-2,4,Clothing,Shirt,COD
+B-25996,286,17-12-2024,2073,140,6,Clothing,Shirt,Debit Card
+B-25663,294,18-12-2024,2074,138,2,Electronics,Printers,Debit Card
+B-25888,223,19-12-2024,2075,4,3,Electronics,Phones,COD
+B-25677,20,20-12-2024,2076,-2,1,Electronics,Accessories,UPI
+B-26045,302,23-12-2024,2077,75,6,Furniture,Furnishings,Debit Card
+B-26002,113,24-12-2024,2078,28,2,Clothing,Saree,UPI
+B-25953,44,25-12-2024,2079,2,3,Clothing,Hankerchief,COD
+B-25617,305,26-12-2024,2080,-270,5,Electronics,Electronic Games,Debit Card
+B-25702,306,27-12-2024,2081,-147,3,Clothing,Saree,Debit Card
+B-25799,70,30-12-2024,2082,-64,5,Clothing,Stole,UPI
+B-25985,44,31-12-2024,2083,11,4,Clothing,Stole,COD
+B-25952,44,01-01-2025,2084,14,3,Clothing,Hankerchief,COD
+B-25754,319,02-01-2025,2085,312,5,Clothing,Saree,Debit Card
+B-25770,287,03-01-2025,2086,-280,12,Furniture,Chairs,UPI
+B-25954,44,06-01-2025,2087,10,3,Clothing,Stole,COD
+B-25657,288,07-01-2025,2088,-180,4,Furniture,Chairs,COD
+B-25801,49,08-01-2025,2089,-31,2,Clothing,Stole,COD
+B-26000,43,09-01-2025,2090,-10,4,Clothing,Skirt,COD
+B-25897,43,10-01-2025,2091,5,3,Clothing,Stole,COD
+B-25681,68,13-01-2025,2092,-27,3,Electronics,Accessories,UPI
+B-25852,320,14-01-2025,2093,144,1,Electronics,Printers,Debit Card
+B-26067,67,15-01-2025,2094,2,4,Clothing,T-shirt,UPI
+B-25601,66,16-01-2025,2095,-12,5,Clothing,Stole,UPI
+B-25804,321,17-01-2025,2096,26,3,Electronics,Printers,Debit Card
+B-25751,43,20-01-2025,2097,-5,2,Clothing,Saree,COD
+B-25630,114,21-01-2025,2098,-39,5,Clothing,Kurti,COD
+B-25899,43,22-01-2025,2099,17,1,Clothing,Saree,COD
+B-25751,43,23-01-2025,2100,21,3,Clothing,Shirt,COD
+B-26081,637,24-01-2025,2101,50,5,Clothing,Saree,COD
+B-25851,300,27-01-2025,2102,42,2,Electronics,Printers,COD
+B-26036,341,28-01-2025,2103,44,7,Furniture,Furnishings,UPI
+B-25704,102,29-01-2025,2104,0,3,Electronics,Phones,COD
+B-25761,328,30-01-2025,2105,-15,3,Electronics,Electronic Games,Debit Card
+B-25978,341,31-01-2025,2106,160,7,Clothing,Stole,Debit Card
+B-26077,62,03-02-2025,2107,11,7,Clothing,Hankerchief,UPI
+B-25981,42,04-02-2025,2108,13,3,Clothing,Leggings,COD
+B-26043,62,05-02-2025,2109,28,5,Clothing,Hankerchief,UPI
+B-25896,42,06-02-2025,2110,7,2,Clothing,Kurti,COD
+B-25790,42,07-02-2025,2111,-3,1,Electronics,Electronic Games,COD
+B-25789,313,10-02-2025,2112,-13,5,Furniture,Bookcases,UPI
+B-26061,109,11-02-2025,2113,52,2,Clothing,Stole,UPI
+B-25923,226,12-02-2025,2114,58,3,Electronics,Accessories,COD
+B-25868,62,13-02-2025,2115,-1,1,Electronics,Phones,UPI
+B-25777,61,14-02-2025,2116,-25,4,Electronics,Accessories,UPI
+B-25999,222,17-02-2025,2117,74,5,Clothing,Hankerchief,COD
+B-25854,342,18-02-2025,2118,-154,7,Furniture,Furnishings,Debit Card
+B-25667,344,19-02-2025,2119,-34,3,Clothing,Saree,Debit Card
+B-25829,345,20-02-2025,2120,38,7,Clothing,Hankerchief,Debit Card
+B-25705,46,21-02-2025,2121,0,2,Electronics,Electronic Games,COD
+B-25843,255,24-02-2025,2122,74,5,Clothing,Hankerchief,COD
+B-25958,360,25-02-2025,2123,32,3,Clothing,Saree,UPI
+B-25893,372,26-02-2025,2124,59,3,Electronics,Printers,UPI
+B-25855,61,27-02-2025,2125,30,2,Clothing,Hankerchief,UPI
+B-25616,42,28-02-2025,2126,12,5,Clothing,Hankerchief,COD
+B-25630,42,03-03-2025,2127,-26,2,Clothing,Kurti,COD
+B-25936,61,04-03-2025,2128,25,4,Clothing,Saree,UPI
+B-25830,41,05-03-2025,2129,11,6,Clothing,Hankerchief,COD
+B-25930,40,06-03-2025,2130,13,3,Clothing,T-shirt,COD
+B-25808,59,07-03-2025,2131,21,2,Clothing,Stole,UPI
+B-25979,57,10-03-2025,2132,27,2,Clothing,Shirt,UPI
+B-25687,17,11-03-2025,2133,6,1,Clothing,Stole,UPI
+B-26087,40,12-03-2025,2134,10,2,Clothing,Stole,COD
+B-25764,349,13-03-2025,2135,-24,2,Clothing,Saree,Debit Card
+B-25782,335,14-03-2025,2136,-22,7,Furniture,Chairs,UPI
+B-25854,40,17-03-2025,2137,16,3,Clothing,Hankerchief,COD
+B-26085,40,18-03-2025,2138,17,2,Clothing,Stole,COD
+B-25630,40,19-03-2025,2139,-7,3,Clothing,Stole,COD
+B-25999,352,20-03-2025,2140,74,8,Clothing,Stole,Debit Card
+B-25648,55,21-03-2025,2141,-26,4,Clothing,Saree,UPI
+B-25952,352,24-03-2025,2142,18,5,Clothing,Trousers,Debit Card
+B-25710,53,25-03-2025,2143,-18,4,Clothing,T-shirt,UPI
+B-25685,51,26-03-2025,2144,7,2,Furniture,Furnishings,UPI
+B-25740,40,27-03-2025,2145,-37,3,Clothing,Stole,COD
+B-25973,39,28-03-2025,2146,14,5,Clothing,Leggings,COD
+B-25769,355,31-03-2025,2147,-4,2,Clothing,Saree,Debit Card
+B-25687,357,01-04-2025,2148,139,2,Clothing,Saree,Debit Card
+B-25603,38,02-04-2025,2149,18,1,Clothing,Kurti,COD
+B-26050,38,03-04-2025,2150,9,2,Clothing,Stole,COD
+B-25748,141,04-04-2025,2151,10,4,Clothing,Shirt,UPI
+B-25833,36,07-04-2025,2152,4,9,Clothing,Hankerchief,COD
+B-25930,351,08-04-2025,2153,-94,5,Electronics,Electronic Games,COD
+B-26035,369,09-04-2025,2154,15,3,Electronics,Electronic Games,Debit Card
+B-25851,53,10-04-2025,2155,24,6,Clothing,Hankerchief,EMI
+B-25718,371,11-04-2025,2156,115,1,Furniture,Bookcases,Debit Card
+B-25898,499,14-04-2025,2157,33,4,Clothing,Saree,COD
+B-25893,223,15-04-2025,2158,62,7,Clothing,Shirt,COD
+B-25983,50,16-04-2025,2159,-4,6,Clothing,T-shirt,EMI
+B-26056,391,17-04-2025,2160,90,6,Electronics,Phones,Debit Card
+B-25715,416,18-04-2025,2161,137,3,Electronics,Phones,Debit Card
+B-25702,424,21-04-2025,2162,-17,9,Furniture,Chairs,Debit Card
+B-25618,362,22-04-2025,2163,127,1,Furniture,Bookcases,COD
+B-25643,36,23-04-2025,2164,-7,1,Electronics,Electronic Games,COD
+B-25961,34,24-04-2025,2165,-10,3,Clothing,Skirt,COD
+B-25873,367,25-04-2025,2166,73,3,Electronics,Electronic Games,UPI
+B-26053,425,28-04-2025,2167,208,7,Clothing,Saree,Debit Card
+B-25683,433,29-04-2025,2168,26,3,Electronics,Printers,Debit Card
+B-25718,460,30-04-2025,2169,31,3,Furniture,Bookcases,Debit Card
+B-25753,62,01-05-2025,2170,-56,5,Clothing,Kurti,COD
+B-25852,50,02-05-2025,2171,16,1,Clothing,Stole,EMI
+B-25914,460,05-05-2025,2172,-143,3,Furniture,Chairs,Debit Card
+B-26083,34,06-05-2025,2173,3,3,Clothing,Saree,COD
+B-25857,227,07-05-2025,2174,59,2,Furniture,Furnishings,UPI
+B-25939,469,08-05-2025,2175,33,4,Electronics,Electronic Games,Debit Card
+B-25851,103,09-05-2025,2176,46,2,Clothing,Saree,UPI
+B-25699,34,12-05-2025,2177,-13,5,Clothing,Leggings,COD
+B-26078,137,13-05-2025,2178,63,3,Clothing,Stole,COD
+B-26075,34,14-05-2025,2179,12,2,Clothing,Stole,COD
+B-25956,474,15-05-2025,2180,56,4,Electronics,Phones,Debit Card
+B-25861,50,16-05-2025,2181,3,2,Clothing,Stole,EMI
+B-25777,69,19-05-2025,2182,-67,4,Clothing,Kurti,UPI
+B-25634,389,20-05-2025,2183,-83,3,Furniture,Chairs,UPI
+B-25753,77,21-05-2025,2184,-43,8,Clothing,Stole,COD
+B-25687,51,22-05-2025,2185,21,3,Clothing,T-shirt,COD
+B-25885,394,23-05-2025,2186,146,2,Furniture,Bookcases,UPI
+B-25767,48,26-05-2025,2187,-22,2,Clothing,Saree,EMI
+B-25961,34,27-05-2025,2188,-12,5,Clothing,Leggings,COD
+B-25923,484,28-05-2025,2189,28,3,Electronics,Printers,Debit Card
+B-25799,47,29-05-2025,2190,-27,4,Clothing,Saree,EMI
+B-25955,45,30-05-2025,2191,8,4,Clothing,Skirt,EMI
+B-26015,128,02-06-2025,2192,55,1,Clothing,Saree,COD
+B-26051,669,03-06-2025,2193,74,5,Furniture,Bookcases,COD
+B-25822,34,04-06-2025,2194,13,2,Clothing,Saree,COD
+B-25989,44,05-06-2025,2195,14,3,Clothing,Hankerchief,Credit Card
+B-25910,33,06-06-2025,2196,1,2,Clothing,Shirt,COD
+B-25956,33,09-06-2025,2197,10,3,Clothing,Hankerchief,COD
+B-25986,487,10-06-2025,2198,-23,3,Electronics,Printers,Debit Card
+B-26098,497,11-06-2025,2199,179,3,Furniture,Chairs,Debit Card
+B-26061,508,12-06-2025,2200,203,2,Electronics,Accessories,Debit Card
+B-25954,524,13-06-2025,2201,-25,2,Electronics,Electronic Games,Debit Card
+B-26034,425,16-06-2025,2202,183,5,Electronics,Accessories,UPI
+B-25909,168,17-06-2025,2203,56,3,Clothing,Saree,COD
+B-25692,141,18-06-2025,2204,28,7,Furniture,Furnishings,UPI
+B-25959,429,19-06-2025,2205,17,3,Furniture,Chairs,UPI
+B-25745,44,20-06-2025,2206,-8,3,Clothing,Stole,Credit Card
+B-25689,149,23-06-2025,2207,136,3,Clothing,Stole,UPI
+B-25786,44,24-06-2025,2208,-34,3,Clothing,Stole,Credit Card
+B-25897,33,25-06-2025,2209,10,3,Clothing,Hankerchief,COD
+B-26056,33,26-06-2025,2210,9,2,Clothing,Hankerchief,COD
+B-25855,442,27-06-2025,2211,31,2,Electronics,Electronic Games,UPI
+B-25667,41,30-06-2025,2212,6,5,Clothing,Skirt,Credit Card
+B-25701,33,01-07-2025,2213,-12,5,Clothing,Hankerchief,COD
+B-26046,32,02-07-2025,2214,3,8,Clothing,Hankerchief,COD
+B-25676,32,03-07-2025,2215,6,3,Clothing,Shirt,COD
+B-26045,179,04-07-2025,2216,77,1,Clothing,Saree,UPI
+B-25889,31,07-07-2025,2217,10,1,Clothing,Kurti,COD
+B-25900,140,08-07-2025,2218,68,5,Clothing,T-shirt,COD
+B-25685,529,09-07-2025,2219,137,3,Electronics,Phones,Debit Card
+B-25622,534,10-07-2025,2220,0,3,Clothing,Saree,Debit Card
+B-25709,41,11-07-2025,2221,-6,1,Furniture,Chairs,Credit Card
+B-25798,379,14-07-2025,2222,63,2,Clothing,Saree,COD
+B-25933,81,15-07-2025,2223,-44,3,Clothing,Stole,COD
+B-25793,40,16-07-2025,2224,-33,5,Clothing,Hankerchief,Credit Card
+B-25951,40,17-07-2025,2225,18,1,Electronics,Accessories,Credit Card
+B-25656,534,18-07-2025,2226,0,3,Clothing,Saree,Debit Card
+B-26056,31,21-07-2025,2227,9,2,Clothing,Hankerchief,COD
+B-25870,473,22-07-2025,2228,-113,9,Clothing,Hankerchief,UPI
+B-25690,31,23-07-2025,2229,-10,3,Clothing,Skirt,COD
+B-25702,31,24-07-2025,2230,-3,4,Clothing,Saree,COD
+B-25752,91,25-07-2025,2231,15,6,Clothing,T-shirt,UPI
+B-25781,30,28-07-2025,2232,-25,2,Clothing,T-shirt,COD
+B-26038,30,29-07-2025,2233,6,1,Clothing,T-shirt,COD
+B-25761,40,30-07-2025,2234,0,3,Clothing,Saree,Credit Card
+B-25751,534,31-07-2025,2235,5,2,Electronics,Electronic Games,Debit Card
+B-25750,539,01-08-2025,2236,-146,7,Furniture,Furnishings,Debit Card
+B-25726,490,04-08-2025,2237,-128,8,Furniture,Bookcases,UPI
+B-26048,163,05-08-2025,2238,81,2,Electronics,Accessories,COD
+B-26051,184,06-08-2025,2239,85,6,Clothing,T-shirt,UPI
+B-25614,494,07-08-2025,2240,54,4,Furniture,Bookcases,COD
+B-25907,30,08-08-2025,2241,11,5,Clothing,Hankerchief,COD
+B-25789,30,11-08-2025,2242,0,1,Clothing,Kurti,COD
+B-26097,39,12-08-2025,2243,-18,2,Clothing,Leggings,Credit Card
+B-25902,1700,13-08-2025,2244,85,3,Clothing,Trousers,COD
+B-25657,332,14-08-2025,2245,-43,6,Electronics,Phones,UPI
+B-25854,436,15-08-2025,2246,131,9,Clothing,Hankerchief,UPI
+B-25610,30,18-08-2025,2247,-5,2,Furniture,Furnishings,COD
+B-25733,30,19-08-2025,2248,-10,2,Clothing,Stole,COD
+B-25798,38,20-08-2025,2249,-13,3,Clothing,Stole,Credit Card
+B-25803,511,21-08-2025,2250,194,3,Furniture,Chairs,UPI
+B-25755,37,22-08-2025,2251,-53,3,Clothing,Saree,Credit Card
+B-25850,513,25-08-2025,2252,215,2,Electronics,Accessories,COD
+B-25667,516,26-08-2025,2253,69,4,Furniture,Bookcases,UPI
+B-25796,559,27-08-2025,2254,-19,2,Clothing,Trousers,Debit Card
+B-26013,29,28-08-2025,2255,-10,3,Clothing,Skirt,COD
+B-25683,148,29-08-2025,2256,52,5,Clothing,Stole,UPI
+B-26054,559,01-09-2025,2257,-174,2,Electronics,Electronic Games,Debit Card
+B-26010,527,02-09-2025,2258,26,3,Electronics,Electronic Games,COD
+B-25979,560,03-09-2025,2259,44,3,Clothing,Saree,Debit Card
+B-25973,571,04-09-2025,2260,108,12,Clothing,Stole,Debit Card
+B-25975,29,05-09-2025,2261,2,3,Clothing,Skirt,COD
+B-26010,29,08-09-2025,2262,3,2,Clothing,Stole,COD
+B-25767,29,09-09-2025,2263,-3,3,Clothing,Saree,COD
+B-25815,35,10-09-2025,2264,14,2,Clothing,Stole,Credit Card
+B-25853,579,11-09-2025,2265,139,3,Electronics,Printers,Debit Card
+B-25756,29,12-09-2025,2266,-24,4,Clothing,Leggings,COD
+B-25755,593,15-09-2025,2267,213,4,Furniture,Bookcases,Debit Card
+B-25996,217,16-09-2025,2268,72,2,Furniture,Furnishings,COD
+B-25619,353,17-09-2025,2269,90,8,Clothing,Saree,COD
+B-26050,382,18-09-2025,2270,92,2,Electronics,Printers,COD
+B-26000,597,19-09-2025,2271,93,4,Furniture,Chairs,Debit Card
+B-26058,212,22-09-2025,2272,97,7,Clothing,Hankerchief,COD
+B-25856,689,23-09-2025,2273,90,5,Clothing,Saree,COD
+B-26044,28,24-09-2025,2274,-10,3,Clothing,Skirt,COD
+B-25654,34,25-09-2025,2275,12,3,Clothing,Hankerchief,Credit Card
+B-26051,600,26-09-2025,2276,-102,5,Electronics,Electronic Games,Debit Card
+B-25636,637,29-09-2025,2277,113,5,Clothing,Saree,UPI
+B-25710,616,30-09-2025,2278,-69,7,Furniture,Furnishings,Debit Card
+B-25656,624,01-10-2025,2279,37,2,Electronics,Electronic Games,Debit Card
+B-25919,28,02-10-2025,2280,4,1,Clothing,T-shirt,COD
+B-25781,584,03-10-2025,2281,-444,7,Electronics,Printers,UPI
+B-25899,28,06-10-2025,2282,6,4,Clothing,Skirt,COD
+B-26093,33,07-10-2025,2283,-1,1,Clothing,Saree,Credit Card
+B-25753,27,08-10-2025,2284,-20,2,Clothing,Hankerchief,COD
+B-25858,27,09-10-2025,2285,5,2,Clothing,Skirt,COD
+B-25762,27,10-10-2025,2286,4,3,Clothing,Skirt,COD
+B-25625,635,13-10-2025,2287,-349,5,Clothing,Saree,Debit Card
+B-25857,598,14-10-2025,2288,166,4,Furniture,Bookcases,UPI
+B-25919,636,15-10-2025,2289,-204,2,Electronics,Printers,Debit Card
+B-25864,27,16-10-2025,2290,9,2,Clothing,Hankerchief,COD
+B-25698,27,17-10-2025,2291,-6,4,Clothing,Hankerchief,COD
+B-25959,637,20-10-2025,2292,212,8,Electronics,Phones,Debit Card
+B-26073,290,23-10-2025,2293,110,9,Clothing,Stole,UPI
+B-25649,27,24-10-2025,2294,-25,2,Clothing,Stole,COD
+B-25806,632,27-10-2025,2295,-114,4,Furniture,Tables,UPI
+B-25756,643,28-10-2025,2296,-45,2,Electronics,Printers,Debit Card
+B-26003,652,29-10-2025,2297,13,6,Furniture,Furnishings,Debit Card
+B-25752,33,30-10-2025,2298,-27,1,Furniture,Chairs,Credit Card
+B-25783,26,31-10-2025,2299,2,2,Clothing,Hankerchief,COD
+B-25802,633,03-11-2025,2300,-633,11,Electronics,Accessories,UPI
+B-25881,26,04-11-2025,2301,9,2,Clothing,Leggings,COD
+B-25898,191,05-11-2025,2302,93,4,Clothing,Shirt,UPI
+B-25696,887,06-11-2025,2303,80,3,Electronics,Printers,UPI
+B-25826,637,07-11-2025,2304,261,2,Electronics,Printers,COD
+B-25745,670,10-11-2025,2305,15,5,Furniture,Bookcases,Debit Card
+B-25943,26,11-11-2025,2306,7,4,Clothing,Hankerchief,COD
+B-26051,676,12-11-2025,2307,195,5,Furniture,Bookcases,Debit Card
+B-25624,26,13-11-2025,2308,12,3,Clothing,Hankerchief,COD
+B-25723,26,14-11-2025,2309,-24,1,Clothing,Stole,COD
+B-26052,25,17-11-2025,2310,7,2,Clothing,Stole,COD
+B-25603,24,18-11-2025,2311,-30,1,Furniture,Chairs,COD
+B-25983,32,19-11-2025,2312,-12,1,Furniture,Chairs,Credit Card
+B-25650,31,20-11-2025,2313,-2,2,Clothing,Saree,Credit Card
+B-25656,651,21-11-2025,2314,169,5,Electronics,Printers,COD
+B-26018,326,24-11-2025,2315,107,3,Furniture,Furnishings,UPI
+B-25783,30,25-11-2025,2316,-6,2,Clothing,Hankerchief,UPI
+B-25951,30,26-11-2025,2317,5,2,Clothing,Kurti,UPI
+B-25974,662,27-11-2025,2318,240,2,Furniture,Bookcases,COD
+B-25754,30,28-11-2025,2319,-23,2,Clothing,Saree,UPI
+B-26073,29,01-12-2025,2320,9,3,Clothing,Saree,UPI
+B-25796,28,02-12-2025,2321,1,1,Electronics,Accessories,UPI
+B-25653,28,03-12-2025,2322,-3,2,Clothing,Saree,UPI
+B-25884,24,04-12-2025,2323,2,4,Clothing,Hankerchief,COD
+B-25650,28,05-12-2025,2324,-26,2,Clothing,Stole,UPI
+B-26045,27,08-12-2025,2325,5,1,Clothing,Stole,UPI
+B-25672,27,09-12-2025,2326,-15,1,Clothing,Stole,UPI
+B-25949,24,10-12-2025,2327,11,3,Clothing,Hankerchief,COD
+B-25733,23,11-12-2025,2328,-6,4,Clothing,Hankerchief,COD
+B-25697,322,12-12-2025,2329,193,5,Electronics,Printers,COD
+B-25893,688,15-12-2025,2330,-103,6,Electronics,Accessories,Debit Card
+B-25802,23,16-12-2025,2331,-3,1,Clothing,Shirt,COD
+B-25961,26,17-12-2025,2332,3,3,Clothing,Skirt,UPI
+B-25751,68,18-12-2025,2333,-56,2,Electronics,Phones,COD
+B-25814,462,19-12-2025,2334,169,4,Clothing,Saree,COD
+B-25702,941,22-12-2025,2335,203,3,Furniture,Tables,UPI
+B-25896,23,23-12-2025,2336,4,2,Clothing,Skirt,COD
+B-25969,720,24-12-2025,2337,43,2,Electronics,Printers,UPI
+B-25778,724,25-12-2025,2338,-447,4,Electronics,Electronic Games,UPI
+B-25859,724,26-12-2025,2339,253,2,Furniture,Bookcases,UPI
+B-25810,26,29-12-2025,2340,10,4,Clothing,Hankerchief,UPI
+B-25616,22,30-12-2025,2341,-2,3,Clothing,Hankerchief,COD
+B-25633,711,31-12-2025,2342,-8,4,Clothing,Saree,Debit Card
+B-25753,107,01-01-2026,2343,31,5,Clothing,T-shirt,COD
+B-25764,765,02-01-2026,2344,-153,2,Electronics,Phones,Debit Card
+B-25864,22,05-01-2026,2345,8,2,Clothing,Leggings,COD
+B-25725,26,06-01-2026,2346,-5,2,Clothing,Stole,UPI
+B-25858,22,07-01-2026,2347,8,3,Clothing,Hankerchief,COD
+B-25817,743,08-01-2026,2348,89,5,Electronics,Printers,UPI
+B-25703,22,09-01-2026,2349,-15,4,Clothing,Kurti,COD
+B-25610,781,12-01-2026,2350,594,6,Electronics,Printers,Debit Card
+B-25652,25,13-01-2026,2351,-2,5,Clothing,Hankerchief,UPI
+B-25891,25,14-01-2026,2352,2,2,Clothing,Hankerchief,UPI
+B-25764,119,15-01-2026,2353,43,5,Clothing,T-shirt,COD
+B-25664,785,16-01-2026,2354,52,2,Electronics,Phones,Debit Card
+B-25645,183,19-01-2026,2355,-66,5,Electronics,Phones,UPI
+B-26008,22,20-01-2026,2356,4,1,Clothing,Stole,COD
+B-26061,642,21-01-2026,2357,180,5,Clothing,Saree,COD
+B-25781,767,22-01-2026,2358,-353,5,Clothing,Trousers,COD
+B-25999,770,23-01-2026,2359,323,3,Electronics,Accessories,COD
+B-25783,21,26-01-2026,2360,-17,3,Clothing,Shirt,COD
+B-25800,21,27-01-2026,2361,-6,3,Clothing,Leggings,COD
+B-26093,492,28-01-2026,2362,187,2,Electronics,Accessories,UPI
+B-25638,816,29-01-2026,2363,-96,3,Electronics,Printers,Debit Card
+B-26026,25,30-01-2026,2364,2,3,Clothing,Kurti,Credit Card
+B-25902,802,02-02-2026,2365,120,7,Electronics,Accessories,COD
+B-25968,811,03-02-2026,2366,154,7,Electronics,Accessories,UPI
+B-26099,835,04-02-2026,2367,267,5,Electronics,Phones,Debit Card
+B-25699,21,05-02-2026,2368,-5,1,Electronics,Accessories,COD
+B-26076,450,06-02-2026,2369,-190,4,Furniture,Bookcases,COD
+B-25793,24,09-02-2026,2370,-1,4,Clothing,Skirt,Credit Card
+B-25671,832,10-02-2026,2371,0,3,Clothing,Trousers,UPI
+B-26040,833,11-02-2026,2372,93,3,Clothing,Trousers,UPI
+B-26059,20,12-02-2026,2373,6,1,Clothing,T-shirt,COD
+B-25725,23,13-02-2026,2374,-5,7,Clothing,Hankerchief,Credit Card
+B-25855,550,16-02-2026,2375,-242,5,Furniture,Furnishings,UPI
+B-25738,148,17-02-2026,2376,-91,2,Electronics,Phones,COD
+B-25899,846,18-02-2026,2377,9,2,Furniture,Chairs,Debit Card
+B-25608,856,19-02-2026,2378,385,6,Electronics,Printers,COD
+B-25904,871,20-02-2026,2379,131,2,Furniture,Bookcases,UPI
+B-26056,19,23-02-2026,2380,-18,4,Clothing,Kurti,COD
+B-25669,610,24-02-2026,2381,-66,2,Furniture,Tables,COD
+B-25638,880,25-02-2026,2382,97,8,Furniture,Furnishings,Debit Card
+B-25953,22,26-02-2026,2383,-8,4,Clothing,Hankerchief,Credit Card
+B-25841,22,27-02-2026,2384,11,2,Clothing,Skirt,Credit Card
+B-26071,21,02-03-2026,2385,4,3,Clothing,Hankerchief,Credit Card
+B-25793,18,03-03-2026,2386,1,3,Clothing,Hankerchief,COD
+B-25813,911,04-03-2026,2387,202,7,Furniture,Chairs,COD
+B-26010,18,05-03-2026,2388,2,3,Clothing,Hankerchief,COD
+B-25825,911,06-03-2026,2389,355,5,Electronics,Phones,Debit Card
+B-25630,143,09-03-2026,2390,-129,2,Electronics,Phones,COD
+B-25986,918,10-03-2026,2391,22,9,Electronics,Electronic Games,COD
+B-25650,925,11-03-2026,2392,-447,5,Electronics,Electronic Games,COD
+B-26078,17,12-03-2026,2393,8,2,Clothing,Skirt,COD
+B-25890,465,13-03-2026,2394,207,9,Clothing,Saree,COD
+B-25691,17,16-03-2026,2395,-9,3,Clothing,Stole,COD
+B-25952,935,17-03-2026,2396,114,4,Electronics,Electronic Games,UPI
+B-25651,16,18-03-2026,2397,-10,2,Clothing,T-shirt,COD
+B-25955,954,19-03-2026,2398,95,3,Electronics,Printers,UPI
+B-25898,915,20-03-2026,2399,-99,3,Furniture,Tables,Debit Card
+B-25838,955,23-03-2026,2400,305,3,Electronics,Printers,Debit Card
+B-25797,976,24-03-2026,2401,293,4,Electronics,Accessories,COD
+B-25738,1069,25-03-2026,2402,0,6,Clothing,Saree,EMI
+B-25661,19,26-03-2026,2403,-15,3,Clothing,Hankerchief,Credit Card
+B-25997,16,27-03-2026,2404,6,3,Clothing,Hankerchief,COD
+B-25667,1030,30-03-2026,2405,206,8,Electronics,Printers,UPI
+B-25753,620,31-03-2026,2406,82,6,Electronics,Accessories,COD
+B-25848,16,01-04-2026,2407,8,2,Clothing,Hankerchief,COD
+B-26097,19,02-04-2026,2408,8,2,Clothing,Hankerchief,Credit Card
+B-25633,249,03-04-2026,2409,-130,4,Electronics,Phones,UPI
+B-25807,16,06-04-2026,2410,6,1,Clothing,Stole,COD
+B-25752,1361,07-04-2026,2411,197,9,Furniture,Bookcases,COD
+B-26052,15,08-04-2026,2412,1,1,Clothing,Shirt,COD
+B-25610,1076,09-04-2026,2413,-38,4,Electronics,Printers,COD
+B-25888,18,10-04-2026,2414,2,3,Clothing,Hankerchief,Credit Card
+B-25937,1101,13-04-2026,2415,352,3,Furniture,Bookcases,UPI
+B-25828,15,14-04-2026,2416,2,1,Clothing,Leggings,COD
+B-26048,1104,15-04-2026,2417,209,4,Clothing,Trousers,UPI
+B-25670,14,16-04-2026,2418,2,1,Clothing,Hankerchief,COD
+B-25757,14,17-04-2026,2419,5,1,Clothing,Hankerchief,COD
+B-25751,14,20-04-2026,2420,-3,2,Clothing,Leggings,COD
+B-25687,14,21-04-2026,2421,-1,4,Clothing,Kurti,COD
+B-25710,13,22-04-2026,2422,-8,1,Clothing,T-shirt,COD
+B-25656,13,23-04-2026,2423,-1,3,Clothing,Hankerchief,COD
+B-25601,1275,24-04-2026,2424,1148,7,Furniture,Bookcases,EMI
+B-26053,17,27-04-2026,2425,1,2,Clothing,Skirt,Credit Card
+B-26001,13,28-04-2026,2426,0,2,Clothing,Hankerchief,COD
+B-25964,1270,29-04-2026,2427,546,11,Electronics,Electronic Games,EMI
+B-26062,13,30-04-2026,2428,-2,1,Clothing,Stole,COD
+B-25982,13,01-05-2026,2429,3,1,Clothing,Leggings,COD
+B-25864,17,04-05-2026,2430,5,1,Clothing,Hankerchief,UPI
+B-25693,13,05-05-2026,2431,-13,2,Clothing,Skirt,COD
+B-25802,13,06-05-2026,2432,-9,2,Clothing,Skirt,COD
+B-25676,1263,07-05-2026,2433,-56,5,Clothing,Trousers,EMI
+B-25639,1629,08-05-2026,2434,-153,3,Electronics,Phones,COD
+B-25757,17,11-05-2026,2435,7,3,Clothing,Hankerchief,UPI
+B-26003,17,12-05-2026,2436,2,2,Clothing,Skirt,UPI
+B-26055,1250,13-05-2026,2437,-12,2,Electronics,Printers,EMI
+B-25786,17,14-05-2026,2438,-11,3,Clothing,Skirt,UPI
+B-25919,977,15-05-2026,2439,-244,7,Electronics,Phones,COD
+B-25894,1246,18-05-2026,2440,62,3,Furniture,Bookcases,EMI
+B-25979,12,19-05-2026,2441,1,2,Clothing,Hankerchief,COD
+B-25651,11,20-05-2026,2442,-4,2,Clothing,Skirt,COD
+B-25653,1327,21-05-2026,2443,318,8,Furniture,Chairs,EMI
+B-25855,1319,22-05-2026,2444,567,5,Electronics,Printers,COD
+B-25793,1402,25-05-2026,2445,109,11,Clothing,Saree,EMI
+B-26073,1514,26-05-2026,2446,742,4,Electronics,Printers,EMI
+B-25881,1351,27-05-2026,2447,111,6,Electronics,Electronic Games,COD
+B-25603,1355,28-05-2026,2448,-60,5,Clothing,Trousers,COD
+B-25851,10,29-05-2026,2449,2,2,Clothing,Hankerchief,COD
+B-25883,10,01-06-2026,2450,-2,2,Clothing,Leggings,COD
+B-25768,1582,02-06-2026,2451,-443,6,Clothing,Trousers,EMI
+B-25953,1218,03-06-2026,2452,352,9,Furniture,Bookcases,EMI
+B-25755,321,04-06-2026,2453,315,5,Clothing,Saree,UPI
+B-26057,736,05-06-2026,2454,346,5,Electronics,Printers,COD
+B-26055,1218,08-06-2026,2455,-420,8,Furniture,Bookcases,COD
+B-25855,1027,09-06-2026,2456,441,8,Clothing,Saree,COD
+B-25989,10,10-06-2026,2457,5,1,Clothing,Stole,COD
+B-26099,2366,11-06-2026,2458,552,5,Clothing,Trousers,UPI
+B-25652,9,12-06-2026,2459,-6,2,Clothing,Hankerchief,COD
+B-25723,16,15-06-2026,2460,-12,2,Clothing,Stole,UPI
+B-26099,9,16-06-2026,2461,3,1,Clothing,Skirt,COD
+B-25629,1560,17-06-2026,2462,421,3,Clothing,Trousers,COD
+B-25877,1137,18-06-2026,2463,568,2,Clothing,Trousers,EMI
+B-25767,9,19-06-2026,2464,-9,2,Clothing,Kurti,COD
+B-25735,15,22-06-2026,2465,-7,1,Clothing,Hankerchief,UPI
+B-26097,14,23-06-2026,2466,5,1,Clothing,Hankerchief,UPI
+B-26070,14,24-06-2026,2467,7,2,Clothing,Hankerchief,UPI
+B-25752,8,25-06-2026,2468,-2,2,Clothing,Hankerchief,COD
+B-25656,1389,26-06-2026,2469,680,7,Clothing,Saree,COD
+B-25748,8,29-06-2026,2470,-1,2,Clothing,Leggings,COD
+B-25758,8,30-06-2026,2471,-2,1,Clothing,Stole,COD
+B-25950,13,01-07-2026,2472,4,1,Clothing,Leggings,UPI
+B-25707,8,02-07-2026,2473,-6,1,Clothing,Stole,COD
+B-25909,12,03-07-2026,2474,2,2,Clothing,Skirt,Credit Card
+B-25955,1716,06-07-2026,2475,309,7,Electronics,Accessories,COD
+B-26023,1117,07-07-2026,2476,447,10,Furniture,Bookcases,EMI
+B-25655,9,08-07-2026,2477,-6,2,Clothing,Skirt,Credit Card
+B-25686,332,09-07-2026,2478,503,3,Electronics,Printers,COD
+B-25655,7,10-07-2026,2479,-4,3,Clothing,Hankerchief,COD
+B-25601,8,13-07-2026,2480,-2,3,Clothing,Hankerchief,Credit Card
+B-25862,2061,14-07-2026,2481,701,5,Furniture,Bookcases,UPI
+B-25626,1103,15-07-2026,2482,276,3,Furniture,Chairs,EMI
+B-25823,2103,16-07-2026,2483,322,8,Electronics,Electronic Games,UPI
+B-25881,2115,17-07-2026,2484,23,5,Furniture,Chairs,COD
+B-25910,850,20-07-2026,2485,-289,5,Electronics,Electronic Games,COD
+B-25830,1063,21-07-2026,2486,64,7,Electronics,Phones,EMI
+B-25978,1063,22-07-2026,2487,-175,4,Electronics,Electronic Games,EMI
+B-25997,2292,23-07-2026,2488,127,7,Furniture,Bookcases,COD
+B-25661,7,24-07-2026,2489,-1,2,Clothing,Hankerchief,Credit Card
+B-25969,2452,27-07-2026,2490,191,7,Furniture,Bookcases,UPI
+B-25858,2457,28-07-2026,2491,665,11,Electronics,Electronic Games,EMI
+B-25697,4,29-07-2026,2492,-3,1,Clothing,Skirt,Credit Card
+B-25798,2830,30-07-2026,2493,-1981,13,Furniture,Bookcases,EMI
+B-25873,7,31-07-2026,2494,1,1,Clothing,Hankerchief,COD
+B-25740,7,03-08-2026,2495,0,2,Clothing,Skirt,COD
+B-25700,7,04-08-2026,2496,-3,2,Clothing,Hankerchief,COD
+B-25757,3151,05-08-2026,2497,-35,7,Clothing,Trousers,EMI
+B-25973,4141,06-08-2026,2498,1698,13,Electronics,Printers,COD
+B-25698,7,07-08-2026,2499,-2,1,Clothing,Hankerchief,COD
+B-25993,4363,10-08-2026,2500,305,5,Furniture,Tables,EMI
